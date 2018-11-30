@@ -1,238 +1,34 @@
-<a href="http://i.stanford.edu/">Infolab</a>
-<a href="#top">Home</a>
-<a href="#book">Book &amp; Slides</a>
-<a href="#mooc">MOOC</a>
-<a href="#courses">Stanford Courses</a>
-<a href="#support">Supporting Materials</a>
-<h1>Mining of Massive Datasets</h1>
-<a href="http://cs.stanford.edu/~jure/">Jure Leskovec</a>
-<a href="https://twitter.com/anand_raj">Anand Rajaraman</a>
-<a href="http://infolab.stanford.edu/~ullman/">Jeff Ullman</a>
-<h2>The book</h2>
-<a href="http://cs.stanford.edu">Stanford Computer Science</a>
-<a href="http://cs246.stanford.edu">CS246: Mining 
-  Massive Datasets</a>
-<a href="http://infolab.stanford.edu/~ullman/mining/2009/index.html">CS345A: Data 
-  Mining</a>
-<p>
-  The book, like the course, is designed at the undergraduate computer science level with no formal prerequisites. To support deeper explorations, most of the chapters are supplemented with further reading references.</p>
-<a href="http://www.cambridge.org/academic/subjects/computer-science/knowledge-management-databases-and-data-mining/mining-massive-datasets-2nd-edition?format=HB">The 
-  Mining of Massive Datasets book</a>
-<a href="http://www.cambridge.org">Cambridge 
-  University Press</a>
-<a href="#ver21">download</a>
-<a href="http://www.cambridge.org">Cambridge University Press</a>
-<p>
-  We welcome your feedback on the manuscript.
-</p>
-<h2>The MOOC (Massive Open Online Course)</h2>
-<p>
-  We are running the third edition of an online course based on the Mining Massive Datases book:
-</p>
-<a href="https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about">Mining Massive Datasets MOOC</a>
-<a href="https://www.coursera.org/course/mmds">information and registration</a>
-<h2>The 3rd edition of the book (v3.0 beta)</h2>
-<a href="http://i.stanford.edu/~ullman/mmdsn.html">here</a>
-<h2>The 2nd edition of the book (v2.1)</h2>
-<p>
-  The following is the second edition of the book. There are three new chapters, on mining large graphs, dimensionality reduction, and machine learning. There is also a revised Chapter 2 that treats map-reduce programming in a manner closer to how it is used in practice.
-</p>
-<a href="http://cs246.stanford.edu">CS246: Mining 
-  Massive Datasets</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/preface.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch1.pdf">PDF</a>
-<a href="./mmds/v2.1/ch01-intro.pdf">PDF</a>
-<a href="./mmds/v2.1/ch01-intro.pptx">PPT</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch2.pdf">PDF</a>
-<a href="./mmds/v2.1/ch02-mapreduce.pdf">PDF</a>
-<a href="./mmds/v2.1/ch02-mapreduce.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=jDlrfBLAIuQ">1</a>
-<a href="https://www.youtube.com/watch?v=VEh91xTIEIU">2</a>
-<a href="https://www.youtube.com/watch?v=4_Eco-v4wlI">3</a>
-<a href="https://www.youtube.com/watch?v=jYjZ527n-ZU">4</a>
-<a href="https://www.youtube.com/watch?v=EDDKdND4oO4">5</a>
-<a href="https://www.youtube.com/watch?v=k3wCw6aqrhk">6</a>
-<a href="https://www.youtube.com/watch?v=TMrZqpVvSmo">7</a>
-<a href="https://www.youtube.com/watch?v=_QO9Gl-EGhQ">8</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch3.pdf">PDF</a>
-<a href="./mmds/v2.1/ch03-lsh.pdf">PDF</a>
-<a href="./mmds/v2.1/ch03-lsh.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=c6xK9WgRFhI">1</a>
-<a href="https://www.youtube.com/watch?v=96WOGPUgMfw">2</a>
-<a href="https://www.youtube.com/watch?v=_1D35bN95Go">3</a>
-<a href="https://www.youtube.com/watch?v=HDiswW6mF0E">4</a>
-<a href="https://www.youtube.com/watch?v=Pl9zaxp8Nj8">5</a>
-<a href="https://www.youtube.com/watch?v=EKPCuAycOdw">6</a>
-<a href="https://www.youtube.com/watch?v=pENvMSvqgoA">7</a>
-<a href="https://www.youtube.com/watch?v=VKMNA4UlEAI">8</a>
-<a href="https://www.youtube.com/watch?v=arjbdAEf9c0">9</a>
-<a href="https://www.youtube.com/watch?v=N8QQH7h9gPQ">10</a>
-<a href="https://www.youtube.com/watch?v=Y4GMGHC-hrg">11</a>
-<a href="https://www.youtube.com/watch?v=px6g9vaOCVc">12</a>
-<a href="https://www.youtube.com/watch?v=VqDuYZcDPI4">13</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch4.pdf">PDF</a>
-<a href="./mmds/v2.1/ch04-streams1.pdf">PDF</a>
-<a href="./mmds/v2.1/ch04-streams2.pdf">PDF</a>
-<a href="./mmds/v2.1/ch04-streams1.pptx">PPT</a>
-<a href="./mmds/v2.1/ch04-streams2.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=uH2nVe08UN0">1</a>
-<a href="https://www.youtube.com/watch?v=rHtqC315hdc">2</a>
-<a href="https://www.youtube.com/watch?v=rWazMA5ORSg">3</a>
-<a href="https://www.youtube.com/watch?v=nBMabNdj5B8">4</a>
-<a href="https://www.youtube.com/watch?v=gbFIAA99GZU">5</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch5.pdf">PDF</a>
-<a href="./mmds/v2.1/ch05-linkanalysis1.pdf">PDF</a>
-<a href="./mmds/v2.1/ch05-linkanalysis2.pdf">PDF</a>
-<a href="./mmds/v2.1/ch05-linkanalysis1.pptx">PPT</a>
-<a href="./mmds/v2.1/ch05-linkanalysis2.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=bK934gcJMS4">1</a>
-<a href="https://www.youtube.com/watch?v=Nvb1WVWoYt4">2</a>
-<a href="https://www.youtube.com/watch?v=e2SZY3NbtQ8">3</a>
-<a href="https://www.youtube.com/watch?v=CWzmnzB04eg">4</a>
-<a href="https://www.youtube.com/watch?v=TSGQ4F1E6H8">5</a>
-<a href="https://www.youtube.com/watch?v=VoYMFLvDnv0">6</a>
-<a href="https://www.youtube.com/watch?v=BUuRL_dIpr0">7</a>
-<a href="https://www.youtube.com/watch?v=Kd6YWBZgNHI">8</a>
-<a href="https://www.youtube.com/watch?v=FFNAJUBEfHs">9</a>
-<a href="https://www.youtube.com/watch?v=Y93J27otCWM">10</a>
-<a href="https://www.youtube.com/watch?v=zydSN8C1Et4">11</a>
-<a href="https://www.youtube.com/watch?v=QyVZzQWsD1Q">12</a>
-<a href="https://www.youtube.com/watch?v=mNBk9rmhUxc">13</a>
-<a href="https://www.youtube.com/watch?v=9bheA6knXdc">14</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch6.pdf">PDF</a>
-<a href="./mmds/v2.1/ch06-assocrules.pdf">PDF</a>
-<a href="./mmds/v2.1/ch06-assocrules.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=6Bl4wYJl3rY">1</a>
-<a href="https://www.youtube.com/watch?v=n2E4Tzt_Teo">2</a>
-<a href="https://www.youtube.com/watch?v=AGAkNiQnbjY">3</a>
-<a href="https://www.youtube.com/watch?v=b-guME_xZiw">4</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch7.pdf">PDF</a>
-<a href="./mmds/v2.1/ch07-clustering.pdf">PDF</a>
-<a href="./mmds/v2.1/ch07-clustering.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=YdqTScQFKQs">1</a>
-<a href="https://www.youtube.com/watch?v=U3sdWVqMWEc">2</a>
-<a href="https://www.youtube.com/watch?v=mQQA2-yq4L4">3</a>
-<a href="https://www.youtube.com/watch?v=pS38Ofy3Qig">4</a>
-<a href="https://www.youtube.com/watch?v=bIr_GRGNyV4">5</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch8.pdf">PDF</a>
-<a href="./mmds/v2.1/ch08-advertising.pdf">PDF</a>
-<a href="./mmds/v2.1/ch08-advertising.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=iIX3rN2725A">1</a>
-<a href="https://www.youtube.com/watch?v=pdV2TGRJILU">2</a>
-<a href="https://www.youtube.com/watch?v=DqZK3u_gmNw">3</a>
-<a href="https://www.youtube.com/watch?v=9Mj8ISjdhJw">4</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch9.pdf">PDF</a>
-<a href="./mmds/v2.1/ch09-recsys1.pdf">PDF</a>
-<a href="./mmds/v2.1/ch09-recsys2.pdf">PDF</a>
-<a href="./mmds/v2.1/ch09-recsys1.pptx">PPT</a>
-<a href="./mmds/v2.1/ch09-recsys2.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=hOQg2LQM4ec">1</a>
-<a href="https://www.youtube.com/watch?v=IlqnNWuqToo">2</a>
-<a href="https://www.youtube.com/watch?v=3Sl_nFQbLQA">3</a>
-<a href="https://www.youtube.com/watch?v=Tsmom3S7zeE">4</a>
-<a href="https://www.youtube.com/watch?v=8l4Xg9AnIjw">5</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch10.pdf">PDF</a>
-<a href="./mmds/v2.1/ch10-graphs1.pdf">PDF</a>
-<a href="./mmds/v2.1/ch10-graphs2.pdf">PDF</a>
-<a href="./mmds/v2.1/ch10-graphs1.pptx">PPT</a>
-<a href="./mmds/v2.1/ch10-graphs2.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=MiKecKWbJhM">1</a>
-<a href="https://www.youtube.com/watch?v=gqxLMdUazPc">2</a>
-<a href="https://www.youtube.com/watch?v=34I03lF_JOU">3</a>
-<a href="https://www.youtube.com/watch?v=qF71tuVRWc0">4</a>
-<a href="https://www.youtube.com/watch?v=FtFzR7CAqIc">5</a>
-<a href="https://www.youtube.com/watch?v=WBV-LrQKHL8">6</a>
-<a href="https://www.youtube.com/watch?v=0Y70KwTreUM">7</a>
-<a href="https://www.youtube.com/watch?v=Kiq58zZ5obk">8</a>
-<a href="https://www.youtube.com/watch?v=AR7iFxM-NkA">9</a>
-<a href="https://www.youtube.com/watch?v=KTh9lRaA9nA">10</a>
-<a href="https://www.youtube.com/watch?v=TqEyfUttiNc">11</a>
-<a href="https://www.youtube.com/watch?v=LGces1YIOro">12</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch11.pdf">PDF</a>
-<a href="./mmds/v2.1/ch11-dimred.pdf">PDF</a>
-<a href="./mmds/v2.1/ch11-dimred.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=SMvNwg9vraM">1</a>
-<a href="https://www.youtube.com/watch?v=dt9iJPNFqaI">2</a>
-<a href="https://www.youtube.com/watch?v=NeUccFkWYQw">3</a>
-<a href="https://www.youtube.com/watch?v=iG517ZbIzMw">4</a>
-<a href="https://www.youtube.com/watch?v=uk_sn-cbhc4">5</a>
-<a href="https://www.youtube.com/watch?v=TOjyKVYDeNg">6</a>
-<a href="https://www.youtube.com/watch?v=PzSshMESoug">7</a>
-<a href="https://www.youtube.com/watch?v=AkaNE-Zep6Q">8</a>
-<a href="https://www.youtube.com/watch?v=voihjWZi0Sk">9</a>
-<a href="https://www.youtube.com/watch?v=EjPddX1nF8Q">10</a>
-<a href="https://www.youtube.com/watch?v=nBMabNdj5B8">11</a>
-<a href="https://www.youtube.com/watch?v=DCR9Ng9JVUk">12</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch12.pdf">PDF</a>
-<a href="./mmds/v2.1/ch12-ml1.pdf">PDF</a>
-<a href="./mmds/v2.1/ch12-ml2.pdf">PDF</a>
-<a href="./mmds/v2.1/ch12-ml1.pptx">PPT</a>
-<a href="./mmds/v2.1/ch12-ml2.pptx">PPT</a>
-<a href="https://www.youtube.com/watch?v=7fAd5VUvdXQ">1</a>
-<a href="https://www.youtube.com/watch?v=ldn_PhFK8L8">2</a>
-<a href="https://www.youtube.com/watch?v=jO6UnwiIEG4">3</a>
-<a href="https://www.youtube.com/watch?v=p_OQOVA_tk4">4</a>
-<a href="https://www.youtube.com/watch?v=IXi9GqbguSo">5</a>
-<a href="https://www.youtube.com/watch?v=M5f18H-iSJQ">6</a>
-<a href="https://www.youtube.com/watch?v=SGGjrYXqnYg">7</a>
-<a href="https://www.youtube.com/watch?v=C3KXOQ6_7ak">8</a>
-<a href="https://www.youtube.com/watch?v=IG0IKHs33_o">9</a>
-<a href="https://www.youtube.com/watch?v=XzcJoshhgG8">10</a>
-<a href="https://www.youtube.com/watch?v=PkyhiOqDMzc">11</a>
-<a href="https://www.youtube.com/watch?v=w31h6luDHtw">12</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/index.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/errata-v2.html">HTML</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/book.pdf">single big PDF file</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/bookL.pdf">PDF file</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/errata-v2.html">HTML</a>
-<a href="./mmds/v2.1_fr/B4.pptx">Chapter 4</a>
-<a href="./mmds/v2.1_fr/B5.pptx">Chapter 5</a>
-<a href="./mmds/v2.1_fr/B8.pptx">Chapter 8</a>
-<a href="./mmds/v2.1_fr/B9.pptx">Chapter 9</a>
-<a href="./mmds/v2.1_fr/B10.pptx">Chapter 10</a>
-<a href="http://www.mmds.org/">http://www.mmds.org/</a>
-<p>
-  Comments and corrections are
-  most welcome. Please let us know if you are using these materials in your course and we will list and link to your course.
-</p>
-<h2>Stanford big data courses</h2>
-<a href="http://cs246.stanford.edu/">CS246: Mining Massive Datasets</a>
-<a href="http://cs341.stanford.edu/">CS341 Project in Mining Massive Data Sets</a>
-<a href="http://cs246.stanford.edu/">CS246</a>
-<a href="http://cs341.stanford.edu/">CS341</a>
-<a href="http://cs341.stanford.edu/">CS341</a>
-<a href="http://www.amazon.com">Amazon</a>
-<a href="http://aws.amazon.com/ec2/">EC2</a>
-<a href="http://cs224w.stanford.edu/">CS224W: Social and Information Networks</a>
-<a href="http://cs246.stanford.edu/">CS246</a>
-<a href="http://cs224w.stanford.edu/">CS224W</a>
-<a href="http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&amp;certificateId=10555807">
-  Stanford Mining Massive Datasets graduate certificate</a>
-<a href="http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&amp;certificateId=10555807"> Stanford Center for Professional Development (SCPD)</a>
-<h2>Supporting materials</h2>
-<a href="http://www.gradiance.com">Gradiance Automated Homework System</a>
-<a href="http://www.gradiance.com/services">here</a>
-<a href="mailto:support@gradiance.com">support@gradiance.com</a>
-<a href="http://www.gradiance.com/info.html">here</a>
-<a href="http://www.gradiance.com">Gradiance Automated
-  Homework System</a>
-<a href="http://www.gradiance.com/services">here</a>
-<a href="http://infolab.stanford.edu/~ullman/pub/stud-guide.html">The Student Guide</a>
-<h2>Previous versions of the book</h2>
-<p>
-  The following materials are equivalent to the published book, with errata corrected to July 4, 2012.
-</p>
-<a href="http://infolab.stanford.edu/~ullman/mmds/prefacea.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch1a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch2a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch3a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch4a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch5a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch6a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch7a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch8a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/ch9a.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/indexa.pdf">PDF</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/errata.html">HTML</a>
-<a href="http://infolab.stanford.edu/~ullman/mmds/booka.pdf">here</a>
-<a href="http://ecorp.com/">eCorp.com</a>
+InfolabHomeBook & SlidesMOOCStanford CoursesSupporting MaterialsMining of Massive DatasetsJure LeskovecAnand RajaramanJeff UllmanThe bookThe book is based on Stanford Computer Science course CS246: Mining 
+  Massive Datasets (and CS345A: Data 
+  Mining).Stanford Computer ScienceCS246: Mining 
+  Massive DatasetsCS345A: Data 
+  MiningThe book, like the course, is designed at the undergraduate computer science level with no formal prerequisites. To support deeper explorations, most of the chapters are supplemented with further reading references.The 
+  Mining of Massive Datasets book has been published by Cambridge 
+  University Press. You can get a 20% discount by applying the code MMDS20 at checkout.The 
+  Mining of Massive Datasets bookCambridge 
+  University PressBy agreement with the publisher, you can download the book for free from this page. Cambridge University Press does, however, retain copyright on the work, and we expect that you will obtain their permission and acknowledge our authorship if you republish parts or all of it. 
+  We are sorry to have to mention this point, but we have evidence that other items we have published 
+  on the Web have been appropriated and republished under other names.  It is easy to detect such misuse, 
+  by the way, as you will learn in Chapter 3.downloadCambridge University PressWe welcome your feedback on the manuscript.The MOOC (Massive Open Online Course)We are running the third edition of an online course based on the Mining Massive Datases book:Mining Massive Datasets MOOCMining Massive Datasets MOOCThe course starts September 12 2015 and will run for 9 weeks with 7 weeks of lectures. Additional information and registration.information and registrationThe 3rd edition of the book (v3.0 beta)We are developing the third edition of the book.
+You can see the current state of the new edition, along with a description
+of the changes so far here.hereThe 2nd edition of the book (v2.1)The following is the second edition of the book. There are three new chapters, on mining large graphs, dimensionality reduction, and machine learning. There is also a revised Chapter 2 that treats map-reduce programming in a manner closer to how it is used in practice.Together with each chapter there is aslo a set of lecture slides that we use for teaching Stanford CS246: Mining 
+  Massive Datasets course. Note that the slides do not necessarily cover all the material convered in the corresponding chapters.CS246: Mining 
+  Massive DatasetsPDFPDFPDFPPTPDFPDFPPT12345678PDFPDFPPT12345678910111213PDFPDFPDFPPTPPT12345PDFPDFPDFPPTPPT1234567891011121314PDFPDFPPT1234PDFPDFPPT12345PDFPDFPPT1234PDFPDFPDFPPTPPT12345PDFPDFPDFPPTPPT123456789101112PDFPDFPPT123456789101112PDFPDFPDFPPTPPT123456789101112PDFHTMLDownload the latest version of the book as a single big PDF file (511 pages, 3 MB).single big PDF fileDownload the full version of the book with a hyper-linked table of contents that make it easy to jump around: PDF file (513 pages, 3.69 MB).PDF fileThe Errata for the second edition of the book: HTML.HTMLDownload slides (PPT) in French: Chapter 4, Chapter 5, Chapter 8, Chapter 9, Chapter 10. Courtesy of Richard Khoury.Chapter 4Chapter 5Chapter 8Chapter 9Chapter 10Note to the users of provided slides: We would be delighted if you found this our material useful 
+  in giving your own lectures. Feel free to use these slides verbatim, or to modify them to fit 
+  your own needs. PowerPoint originals are available. If you make use of a significant portion of 
+  these slides in your own lecture, please include this message, or a link to our web site: 
+  http://www.mmds.org/.http://www.mmds.org/Comments and corrections are
+  most welcome. Please let us know if you are using these materials in your course and we will list and link to your course.Stanford big data coursesCS246: Mining Massive Datasets is graduate level course that discusses data mining and machine learning algorithms for analyzing very large amounts of data. The emphasis is on Map Reduce as a tool for creating parallel algorithms that can process very large amounts of data.CS246: Mining Massive DatasetsCS341 Project in Mining Massive Data Sets is an advanced project based course. Students work on data mining and machine learning algorithms for analyzing very large amounts of data. Both interesting big datasets as well as computational infrastructure (large MapReduce cluster) are provided by course staff.
+  Generally, students first take CS246 followed by CS341.CS341 Project in Mining Massive Data SetsCS246CS341CS341 is generously supported by 
+  Amazon by giving us access to their 
+  EC2 platform.CS341AmazonEC2CS224W: Social and Information Networks is graduate level course that covers recent research on the structure and analysis of such large social and information networks and on models and algorithms that abstract their basic properties. Class explores how to practically analyze large scale network data and how to reason about it through models for network structure and evolution.CS224W: Social and Information NetworksIf you are not a Stanford student, you can still take CS246 as well as CS224W  or earn a 
+  
+  Stanford Mining Massive Datasets graduate certificate by completing a sequence of four Stanford Computer Science courses. A graduate certificate is a great way to keep the skills and knowledge in your field current. More information is available at the  Stanford Center for Professional Development (SCPD).CS246CS224WStanford Mining Massive Datasets graduate certificateStanford Center for Professional Development (SCPD)Supporting materialsIf you are an instructor interested in using the Gradiance Automated Homework System with this book, start by creating an account for yourself here. Then, email your chosen login and the request to become an instructor for the MMDS book to support@gradiance.com. 
+  You will then be able to create a class using these materials. Manuals explaining the use of the system are available  
+  here.Gradiance Automated Homework Systemheresupport@gradiance.comhereStudents who want to use the Gradiance Automated
+  Homework System for self-study can register  
+  here. Then, use the class token 1EDD8A1D to 
+  join the "omnibus class" for the MMDS book. See 
+  The Student Guide 
+  for more information.Gradiance Automated
+  Homework SystemhereThe Student GuidePrevious versions of the bookThe following materials are equivalent to the published book, with errata corrected to July 4, 2012.PDFPDFPDFPDFPDFPDFPDFPDFPDFPDFPDFHTMLDownload the book as published here (340 pages, 2 MB).hereeCorp.com

@@ -1,20 +1,1678 @@
-<h1> A System for Detecting Software Similarity</h1>
-<a href="https://github.com/Chris00/ocaml-moss">OCaml client</a>
-<a href="https://github.com/nordicway/moji"> Java version</a>
-<a href="https://github.com/Phhere/MOSS-PHP"> PHP version</a>
-<a href="http://www.similix.com">Similix Corporation</a>
-<a href='mailto:"moss@moss.stanford.edu"'>moss@moss.stanford.edu</a>
-<a href="http://moss.stanford.edu/general/scripts.html">here</a>
-<a href="https://github.com/alkanmuhammet/MossSwing">Swing GUI</a>
-<a href="https://www.dropbox.com/sh/jvq1drtb6iqeone/AAA5l1rIsjlJE57OYyzMoZlLa?dl=0">jar file</a>
-<a href="https://github.com/cacticouncil/mistletoe/releases">Python GUI</a>
-<a href="https://github.com/soachishti/moss.py">Python client</a>
-<a href="https://github.com/Chris00/ocaml-moss">OCaml client</a>
-<a href="https://github.com/wsgac/cl-moss">Common Lisp</a>
-<a href="https://github.com/nordicway/moji"> Java version</a>
-<a href="https://github.com/Phhere/MOSS-PHP"> PHP version</a>
-<a href="https://github.com/shanemay/MossApp">GUI for Windows</a>
-<a href="https://bitbucket.org/macite/moss-ruby">Ruby gem</a>
-<a href="https://github.com/hjalti/mossum">summarization/visualization script</a>
-<a href="http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf">here</a>
-<a href="http://theory.stanford.edu/~aiken/index.html">Alex Aiken's Homepage</a>
+A System for Detecting Software SimilarityUPDATES 
+
+ Feb 1, 2018 And even more community contributions have been added!
+ Nov 9, 2017 More community contributions have been added below ...
+ Aug 31, 2017 Thanks to Chrstophe Troestler for an OCaml client for Moss.
+ May 18, 2014  Community contributions (incuding a Windows submission GUI from Shane May, thanks!) are now in their own section on this page.
+ May 14, 2014  And here is a  Java version of the submission script.  Thanks to Bjoern Zielke!
+ May 2, 2014  Here is a  PHP version of the submission script.  Many thanks to Phillip Rehs!
+
+ June 9, 2011  There were two outages over the last couple of days that lasted no more than a hour each (I think).  I've made some changes to the disk management software that should prevent these problems from recurring.
+ April 29, 2011  There was an outage lasting a few hours today, the first since last summer, but everything is back up.
+ August 1, 2010  Everything is back to normal.
+ July 27, 2010  The Moss server is back on line.  There may be some more tuning and possibly downtime in the coming weeks, but any outages should be brief.  New registrations are not yet working, but people with existing accounts can submit jobs.
+ July 25, 2010  As many (many!) people have noticed, the Moss server has been down for all of July.  Unfortunately the hardware failed while I was away on a trip.  I am hopeful it will be back up within a few days.
+
+ What is Moss? 
+Moss (for a Measure Of Software Similarity) is an automatic system for determining
+the similarity of programs.  To date, the main
+application of Moss has been in detecting plagiarism in programming
+classes.  Since its development in 1994, Moss has been very
+effective in this role.  The algorithm behind moss is a significant improvement over other
+cheating detection algorithms (at least, over those known to us).
+  
+ What is Moss Not?  Moss is not a system for
+completely automatically detecting plagiarism.  Plagiarism is a satement that someone copied code
+deliberately without attribution, and while Moss automatically detects program similarity, it 
+has no way of
+knowing why codes are similar.  
+It is still up to a human to
+go and look at the parts of the code that Moss highlights and make a
+decision about whether there is plagiarism or not.  One way of
+thinking about what Moss provides is that it saves teachers and teaching staff a lot of time by
+pointing out the parts of programs that are worth a more detailed
+examination.  But once someone has looked at those portions of the
+programs, it shouldn't matter whether the suspect code was first discovered by Moss
+or by a human; the case that there was plagiarism should stand on its own.
+
+In particular, it is a misuse of Moss to rely solely on the similarity scores.
+These scores are useful for judging the relative amount of matching between different
+pairs of programs and for more easily seeing which pairs of programs stick out with
+unusual amounts of matching.  But the scores are certainly not a proof of plagiarism.
+Someone must still look at the code.
+  
+Languages
+Moss can currently analyze code written in the following languages:
+C, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, 
+Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly,
+a8086 assembly, HCL2. 
+
+
+  
+An Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageUPDATES 
+
+ Feb 1, 2018 And even more community contributions have been added!
+ Nov 9, 2017 More community contributions have been added below ...
+ Aug 31, 2017 Thanks to Chrstophe Troestler for an OCaml client for Moss.
+ May 18, 2014  Community contributions (incuding a Windows submission GUI from Shane May, thanks!) are now in their own section on this page.
+ May 14, 2014  And here is a  Java version of the submission script.  Thanks to Bjoern Zielke!
+ May 2, 2014  Here is a  PHP version of the submission script.  Many thanks to Phillip Rehs!
+
+ June 9, 2011  There were two outages over the last couple of days that lasted no more than a hour each (I think).  I've made some changes to the disk management software that should prevent these problems from recurring.
+ April 29, 2011  There was an outage lasting a few hours today, the first since last summer, but everything is back up.
+ August 1, 2010  Everything is back to normal.
+ July 27, 2010  The Moss server is back on line.  There may be some more tuning and possibly downtime in the coming weeks, but any outages should be brief.  New registrations are not yet working, but people with existing accounts can submit jobs.
+ July 25, 2010  As many (many!) people have noticed, the Moss server has been down for all of July.  Unfortunately the hardware failed while I was away on a trip.  I am hopeful it will be back up within a few days.
+
+ What is Moss? 
+Moss (for a Measure Of Software Similarity) is an automatic system for determining
+the similarity of programs.  To date, the main
+application of Moss has been in detecting plagiarism in programming
+classes.  Since its development in 1994, Moss has been very
+effective in this role.  The algorithm behind moss is a significant improvement over other
+cheating detection algorithms (at least, over those known to us).
+  
+ What is Moss Not?  Moss is not a system for
+completely automatically detecting plagiarism.  Plagiarism is a satement that someone copied code
+deliberately without attribution, and while Moss automatically detects program similarity, it 
+has no way of
+knowing why codes are similar.  
+It is still up to a human to
+go and look at the parts of the code that Moss highlights and make a
+decision about whether there is plagiarism or not.  One way of
+thinking about what Moss provides is that it saves teachers and teaching staff a lot of time by
+pointing out the parts of programs that are worth a more detailed
+examination.  But once someone has looked at those portions of the
+programs, it shouldn't matter whether the suspect code was first discovered by Moss
+or by a human; the case that there was plagiarism should stand on its own.
+
+In particular, it is a misuse of Moss to rely solely on the similarity scores.
+These scores are useful for judging the relative amount of matching between different
+pairs of programs and for more easily seeing which pairs of programs stick out with
+unusual amounts of matching.  But the scores are certainly not a proof of plagiarism.
+Someone must still look at the code.
+  
+Languages
+Moss can currently analyze code written in the following languages:
+C, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, 
+Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly,
+a8086 assembly, HCL2. 
+
+
+  
+An Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageOCaml clientJava versionPHP versionWhat is Moss Not?  Moss is not a system for
+completely automatically detecting plagiarism.  Plagiarism is a satement that someone copied code
+deliberately without attribution, and while Moss automatically detects program similarity, it 
+has no way of
+knowing why codes are similar.  
+It is still up to a human to
+go and look at the parts of the code that Moss highlights and make a
+decision about whether there is plagiarism or not.  One way of
+thinking about what Moss provides is that it saves teachers and teaching staff a lot of time by
+pointing out the parts of programs that are worth a more detailed
+examination.  But once someone has looked at those portions of the
+programs, it shouldn't matter whether the suspect code was first discovered by Moss
+or by a human; the case that there was plagiarism should stand on its own.
+
+In particular, it is a misuse of Moss to rely solely on the similarity scores.
+These scores are useful for judging the relative amount of matching between different
+pairs of programs and for more easily seeing which pairs of programs stick out with
+unusual amounts of matching.  But the scores are certainly not a proof of plagiarism.
+Someone must still look at the code.
+  
+Languages
+Moss can currently analyze code written in the following languages:
+C, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, 
+Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly,
+a8086 assembly, HCL2. 
+
+
+  
+An Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageWhat is Moss Not?  Moss is not a system for
+completely automatically detecting plagiarism.  Plagiarism is a satement that someone copied code
+deliberately without attribution, and while Moss automatically detects program similarity, it 
+has no way of
+knowing why codes are similar.  
+It is still up to a human to
+go and look at the parts of the code that Moss highlights and make a
+decision about whether there is plagiarism or not.  One way of
+thinking about what Moss provides is that it saves teachers and teaching staff a lot of time by
+pointing out the parts of programs that are worth a more detailed
+examination.  But once someone has looked at those portions of the
+programs, it shouldn't matter whether the suspect code was first discovered by Moss
+or by a human; the case that there was plagiarism should stand on its own.
+
+In particular, it is a misuse of Moss to rely solely on the similarity scores.
+These scores are useful for judging the relative amount of matching between different
+pairs of programs and for more easily seeing which pairs of programs stick out with
+unusual amounts of matching.  But the scores are certainly not a proof of plagiarism.
+Someone must still look at the code.
+  
+Languages
+Moss can currently analyze code written in the following languages:
+C, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, 
+Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly,
+a8086 assembly, HCL2. 
+
+
+  
+An Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageIn particular, it is a misuse of Moss to rely solely on the similarity scores.
+These scores are useful for judging the relative amount of matching between different
+pairs of programs and for more easily seeing which pairs of programs stick out with
+unusual amounts of matching.  But the scores are certainly not a proof of plagiarism.
+Someone must still look at the code.
+  
+Languages
+Moss can currently analyze code written in the following languages:
+C, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, 
+Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly,
+a8086 assembly, HCL2. 
+
+
+  
+An Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageLanguages
+Moss can currently analyze code written in the following languages:
+C, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, 
+Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly,
+a8086 assembly, HCL2. 
+
+
+  
+An Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageLanguages
+Moss can currently analyze code written in the following languages:
+C, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, 
+Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly,
+a8086 assembly, HCL2. 
+
+
+  
+An Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageC, C++, Java, C#, Python, Visual Basic, Javascript, FORTRAN, ML, Haskell, Lisp, Scheme, Pascal, Modula2, Ada, Perl, TCL, 
+Matlab, VHDL, Verilog, Spice, MIPS assembly, a8086 assembly,
+a8086 assembly, HCL2. 
+
+
+  
+An Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageAn Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageAn Internet Service
+Moss is being provided as an Internet service.
+The service has been designed to be very easy to use--you
+supply a list of files to compare and Moss does the rest.
+
+The current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageThe current Moss submission script is for Linux. 
+
+
+In response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageIn response to a query the Moss server produces HTML pages listing
+pairs of programs with similar code.  Moss also highlights
+individual passages in programs that appear the same, making it easy
+to quickly compare the files.  Finally, Moss can automatically
+eliminate matches to code that one expects to be shared (e.g.,
+libraries or instructor-supplied code), thereby eliminating false
+positives that arise from legitimate sharing of code.
+
+  
+Registering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageRegistering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageRegistering for Moss
+Moss is being provided in the hope that it will benefit the
+educational community. Moss is fast, easy to use, and free.  In the
+past, access has been restricted to instructors and staff of programming courses.  This is no longer the case, and anyone may obtain a Moss account.
+
+However, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageHowever, Moss is for non-commercial use.  If you are interested in commercial uses
+of Moss, contact Similix Corporation.
+
+
+To obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageSimilix CorporationTo obtain a Moss account, send a mail message to
+moss@moss.stanford.edu.
+The body of the message should appear exactly as follows:
+registeruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's Homepagemoss@moss.stanford.eduregisteruser 
+mail username@domain
+where the last bit in italics is your email address.
+
+If you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageIf you already have an account, the latest submission script
+can be downloaded here.
+  
+ Security and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepagehereSecurity and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageSecurity and Legal Stuff 
+
+If you use Moss, the results will contain copies of the code you
+submitted and these will be accessible to anyone with the result URL.
+Stanford can assume no liability whatsoever for your submissions.
+
+Reasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageReasonable precautions have been taken to protect the confidentiality
+of the code you submit.  These measures include: only you receive the
+result URL and it contains a random integer, so it is not easy to
+guess a result URL.  Furthermore, the directory with the results cannot
+be broswed or indexed by robots.  Finally, submissions are not
+retained indefinitely on the server; typically results are deleted
+after 14 days, though they may be deleted earlier to free up disk
+space when the server is particularly busy.  If some results you need have
+been deleted, you can simply resubmit your job.
+
+
+  
+ Community Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageCommunity Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageCommunity Contributions 
+A number of Moss users have contributed versions of the submission script:
+
+
+ A Swing GUI and the corresponding jar file (from Muhammet Alkan).
+ A Python GUI (from Jeremiah Blanchard).
+ A Python client (from Syed Chishti)
+ An OCaml client (from Christophe Troestler).
+ A Common Lisp submission utility (from Wojciech Gac).
+
+A  Java version (from Bjoern Zielke).
+
+ A  PHP version (from Phillip Rehs).
+
+ A GUI for Windows (from Shane May).
+
+
+
+Andrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageSwing GUIjar filePython GUIPython clientOCaml clientCommon LispJava versionPHP versionGUI for WindowsAndrew Cain has writtten a Ruby gem for Moss.
+
+Hjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageRuby gemHjalti Magnussion has written a summarization/visualization script. 
+  
+ How Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's Homepagesummarization/visualization scriptHow Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepageHow Does it Work?
+A paper on the ideas behind Moss can be found here.
+
+  
+ Back to Alex Aiken's HomepagehereBack to Alex Aiken's HomepageBack to Alex Aiken's HomepageAlex Aiken's Homepage

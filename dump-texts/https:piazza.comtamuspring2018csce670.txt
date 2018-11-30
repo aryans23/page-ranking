@@ -1,24 +1,33 @@
-<h2>Log in</h2>
-<a class="bottomLine" href="/forgot_password.html" style="font-size:12px;">Forgot your password?</a>
-<h2 id="school-name">Texas A&amp;M University</h2>
-<p><a href="/school-search">(change school)</a></p>
-<a href="/school-search">(change school)</a>
-<p class="header">Are you a professor?</p>
-<p>Click here to create &amp; join classes</p>
-<a href="#">(go back &amp; edit classes)</a>
-<a>Add Another Class</a>
-<p style="text-align:center;"><a class="login_other_account" href="#" style="display:none">Click here to log in to your other account</a></p>
-<a class="login_other_account" href="#" style="display:none">Click here to log in to your other account</a>
-<a>Log out</a>
-<p class="error match">Uh oh! Your email addresses don't match.</p>
-<p class="header">Validation Code:</p>
-<p class="error">Uh-oh! Invalid code.</p>
-<p class="header">Not Getting Our Email?</p>
-<a href="#" id="resend-registration-email">Click here to resend</a>
-<p class="support">If it's still not there, please email us at team@piazza.com for help!</p>
-<p class="error">Uh oh! Email and password don't match.</p>
-<p class="forgot"><a href="/forgot_password.html" target="_blank">Forgot your password?</a></p>
-<a href="/forgot_password.html" target="_blank">Forgot your password?</a>
-<p class="error match">Uh oh! Your email addresses don't match.</p>
-<p class="footer">Unable to sign up? Email us at team@piazza.com and we'll help you get started!</p>
-<p>Thank you for adding your classes!</p>
+Log inForgot your password?Log inCancelTexas A&M University(change school)(change school)Are you a professor?Click here to create & join classesPiazza is a free platform for instructors to efficiently manage class Q&A. Students can post questions and collaborate to edit responses to these questions. Instructors can also answer questions, endorse student answers, and edit or delete any posted content.The name Piazza comes from the Italian word for plaza--a common city square where people can come together to share knowledge and ideas. We strive to recreate that communal atmosphere among students and instructors.(go back & edit classes)Selected Term:
+							  
+Spring 2018
+
+
+
+Select a Term
+
+                          Fall 2017
+                        
+
+                          Spring 2018
+                        
+
+                          Summer 2018
+                        
+
+                          Fall 2018
+                        
+
+                          Spring 2019
+                        
+
+                          Summer 2019
+                        
+
+                          Fall 2019
+                        
+
+                          Spring 2020
+                        
+
+                          OtherSpring 2018Add Another ClassJoin ClassesClick here to log in to your other accountClick here to log in to your other accountLogged in as USERNAME. (Log out)Log outPlease enter the tamu.edu email address to which you would like to add your classes.Please enter a valid tamu.edu email addressUh oh! Your email addresses don't match.Check your inbox for your confirmation email. Enter the validation code below so you can access your classes!Validation Code:Uh-oh! Invalid code.Not Getting Our Email?Please check your bulk mail or spam folder first. Click here to resend the email. (It may take a few minutes to arrive.)Click here to resendIf it's still not there, please email us at team@piazza.com for help!Uh oh! Email and password don't match.Forgot your password?Forgot your password?Please enter your tamu.edu email address to enroll. We will send an email to this address with a link to validate your new email address.Please enter a valid tamu.edu email addressUh oh! Your email addresses don't match.Unable to sign up? Email us at team@piazza.com and we'll help you get started!Thank you for adding your classes!Your classes are not yet active.We'll notify you when they've been activated by your professor.

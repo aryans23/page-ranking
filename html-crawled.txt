@@ -2,8 +2,8 @@ http://courses.cse.tamu.edu/caverlee/csce670/index.html
 http://faculty.cse.tamu.edu/caverlee/
 http://www.cse.tamu.edu
 http://www.tamu.edu
-schedule.html
-project.html
+http://courses.cse.tamu.edu/caverlee/csce670/index.html/schedule.html
+http://courses.cse.tamu.edu/caverlee/csce670/index.html/project.html
 https://piazza.com/tamu/spring2018/csce670/home
 http://nlp.stanford.edu/IR-book/information-retrieval-book.html
 http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521865715
@@ -15,3 +15,7 @@ https://piazza.com/tamu/spring2018/csce670
 http://theory.stanford.edu/~aiken/moss/
 http://disability.tamu.edu
 http://aggiehonor.tamu.edu
+http://faculty.cse.tamu.edu/caverlee//schedule.html
+http://faculty.cse.tamu.edu/caverlee//project.html
+http://www.cse.tamu.edu/schedule.html
+http://www.cse.tamu.edu/project.html

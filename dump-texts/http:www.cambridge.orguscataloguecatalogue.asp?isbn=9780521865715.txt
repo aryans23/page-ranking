@@ -1,39 +1,9 @@
-<a href="/us">Home</a>
-<a href="/us/catalogue">Catalog</a>
-<a class="current" href="catalogue.asp?isbn=9780521865715">Description</a>
-<a href="catalogue.asp?isbn=9780521865715&amp;ss=toc">Table of contents</a>
-<a href="catalogue.asp?isbn=9780521865715&amp;ss=exc">Excerpt</a>
-<a href="catalogue.asp?isbn=9780521865715&amp;ss=ind">Index</a>
-<a href="catalogue.asp?isbn=9780521865715&amp;ss=cop">Copyright</a>
-<a href="catalogue.asp?isbn=9780521865715&amp;ss=fro">Frontmatter</a>
-<h2>Resources and solutions</h2>
-<p>This title has free online support material available.</p>
-<a href="catalogue.asp?isbn=9780521865715&amp;ss=res">View material...</a>
-<h2>Details</h2>
-<h1>Introduction to Information Retrieval</h1>
-<h2>Christopher D. Manning </h2>
-<h2><a href="searchResult.asp?ipcode=221751&amp;sort=Y">Prabhakar Raghavan</a></h2>
-<a href="searchResult.asp?ipcode=221751&amp;sort=Y">Prabhakar Raghavan</a>
-<h2>Hinrich Schütze </h2>
-<p> (ISBN-13: 9780521865715)</p>
-<a href="catalogue.asp?isbn=0511410808">Adobe eBook</a>
-<a href="/us/textbooks/inspection_copy.asp?isbn=9780521865715&amp;author=Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze&amp;title=Introduction to Information Retrieval">request examination copies</a>
-<p>Class-tested and coherent, this groundbreaking new textbook teaches web-era information retrieval, including web search and the related areas of text classification and text clustering from basic concepts. Written from a computer science perspective by three leading experts in the field, it gives an up-to-date treatment of all aspects of the design and implementation of systems for gathering, indexing, and searching documents; methods for evaluating systems; and an introduction to the use of machine learning methods on text collections. All the important ideas are explained using examples and figures, making it perfect for introductory courses in information retrieval for advanced undergraduates and graduate students in computer science. Based on feedback from extensive classroom experience, the book has been carefully structured in order to make teaching more natural and effective. Although originally designed as the primary text for a graduate or advanced undergraduate course in information retrieval, the book will also create a buzz for researchers and professionals alike. </p>
-<p>1. Information retrieval using the Boolean model; 2. The dictionary and postings lists; 3. Tolerant retrieval; 4. Index construction; 5. Index compression; 6. Scoring and term weighting; 7. Vector space retrieval; 8. Evaluation in information retrieval; 9. Relevance feedback and query expansion; 10. XML retrieval; 11. Probabilistic information retrieval; 12. Language models for information retrieval; 13. Text classification and Naive Bayes; 14. Vector space classification; 15. Support vector machines and kernel functions; 16. Flat clustering; 17. Hierarchical clustering; 18. Dimensionality reduction and latent semantic indexing; 19. Web search basics; 20. Web crawling and indexes; 21. Link analysis.</p>
-<h2>Quick search</h2>
-<p><a href="search.asp">Advanced search...</a></p>
-<a href="search.asp">Advanced search...</a>
-<h2>Related book</h2>
-<a href="catalogue.asp?isbn=0521671590">Paperback</a>
-<h2>Related areas</h2>
-<a href="/us/textbooks/default.asp?subject=727">Other textbooks in this area</a>
-<h2>Related areas</h2>
-<a href="http://www.cambridge.org/us/computerscience">Computer science</a>
-<h2>Links</h2>
-<a href="http://cambridge.org/us/catalogue/catalogue.asp?isbn=9780521734462" target="_blank">Related Book: "Finding Out About" by Richard K. Belew</a>
-<p>Cambridge University Press is not responsible for the content of external websites.</p>
-<a href="help.asp?topicID=11">©</a>
-<a href="help.asp?topicID=7">Privacy Policy</a>
-<a href="/policy/termsofuse/">Terms of use</a>
-<a href="help.asp?topicID=9">Security</a>
-<a href="http://www.cambridge.org/us/information/contacts.htm">Contact us</a>
+HomeCatalogDescriptionTable of contentsExcerptIndexCopyrightFrontmatterResources and solutionsThis title has free online support material available.View material...DetailsIntroduction to Information RetrievalChristopher D. ManningPrabhakar RaghavanPrabhakar RaghavanHinrich Schütze(ISBN-13: 9780521865715)Adobe eBookrequest examination copiesClass-tested and coherent, this groundbreaking new textbook teaches web-era information retrieval, including web search and the related areas of text classification and text clustering from basic concepts. Written from a computer science perspective by three leading experts in the field, it gives an up-to-date treatment of all aspects of the design and implementation of systems for gathering, indexing, and searching documents; methods for evaluating systems; and an introduction to the use of machine learning methods on text collections. All the important ideas are explained using examples and figures, making it perfect for introductory courses in information retrieval for advanced undergraduates and graduate students in computer science. Based on feedback from extensive classroom experience, the book has been carefully structured in order to make teaching more natural and effective. Although originally designed as the primary text for a graduate or advanced undergraduate course in information retrieval, the book will also create a buzz for researchers and professionals alike.1. Information retrieval using the Boolean model; 2. The dictionary and postings lists; 3. Tolerant retrieval; 4. Index construction; 5. Index compression; 6. Scoring and term weighting; 7. Vector space retrieval; 8. Evaluation in information retrieval; 9. Relevance feedback and query expansion; 10. XML retrieval; 11. Probabilistic information retrieval; 12. Language models for information retrieval; 13. Text classification and Naive Bayes; 14. Vector space classification; 15. Support vector machines and kernel functions; 16. Flat clustering; 17. Hierarchical clustering; 18. Dimensionality reduction and latent semantic indexing; 19. Web search basics; 20. Web crawling and indexes; 21. Link analysis.“This is the first book that gives you a complete picture of the complications that arise in building a modern web-scale search engine. You'll learn about ranking SVMs, XML, DNS, and LSI. You'll discover the seedy underworld of spam, cloaking, and doorway pages. You'll see how MapReduce and other approaches to parallelism allow us to go beyond megabytes and to efficiently manage petabytes."
+Peter Norvig, Director of Research, Google Inc."Introduction to Information Retrieval is a comprehensive, up-to-date, and well-written introduction to an increasingly important and rapidly growing area of computer science. Finally, there is a high-quality textbook for an area that was desperately in need of one."
+Raymond J. Mooney, Professor of Computer Sciences, University of Texas at Austin“Through compelling exposition and choice of topics, the authors vividly convey both the fundamental ideas and the rapidly expanding reach of information retrieval as a field.”
+Jon Kleinberg, Professor of Computer Science, Cornell University"Highly recommended."
+H.Levkowitz, Choice Magazine"Introduction to Information Retrieval is a comprehensive, authoritative,
+and well-written overview of the main topics in IR. The book offers a good balance
+of theory and practice, and is an excellent self-contained introductory text for those
+new to IR."
+Olga Vechtomova, Computational LinguisticsQuick searchAdvanced search...Advanced search...Related bookPaperbackRelated areasOther textbooks in this areaRelated areasComputer scienceLinksRelated Book: "Finding Out About" by Richard K. BelewCambridge University Press is not responsible for the content of external websites.Printer friendly version©Privacy PolicyTerms of useSecurityContact us

@@ -1,10 +1,4 @@
-<a href="index.html">Home</a>
-<a href="ed1.html">1st Edition</a>
-<a href="ed1n.html">1.N Edition</a>
-<a href="ed2.html">2nd Edition</a>
-<p class="lead">by Jimmy Lin and Chris Dyer</p>
-<p>I'm calling the "1.N Edition" the current version of the book,
+Home1st Edition1.N Edition2nd EditionData-Intensive Text Processingwith MapReduceby Jimmy Lin and Chris DyerI'm calling the "1.N Edition" the current version of the book,
 which contains additions and corrections from the published Morgan
-&amp; Claypool version.</p>
-<a class="btn btn-success" href="https://github.com/lintool/MapReduceAlgorithms/tree/master/ed1n">View Latex Source</a>
-<a class="btn btn-primary" href="ed1n/MapReduce-algorithms.pdf">Download current PDF</a>
+& Claypool version.View Latex Source
+Download current PDFView Latex SourceDownload current PDF

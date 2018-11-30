@@ -1,216 +1,685 @@
-<a class="navbar-brand" href="#">James Caverlee</a>
-<a href="#">Home</a>
-<a href="#research">Publications</a>
-<a href="#students">Students</a>
-<a href="#teaching">Teaching</a>
-<a href="#service">Service</a>
-<a href="#awards">Awards</a>
-<h1>James Caverlee</h1>
-<a href="http://infolab.tamu.edu/">infolab</a>
-<a href="pubs/lee11icwsm.pdf">ICWSM2011</a>
-<a href="pubs/lee10sigir.pdf">SIGIR2010</a>
-<a href="pubs/fayazi15sigir.pdf">SIGIR2015</a>
-<a href="pubs/parisa18wsdm.pdf">WSDM2018</a>
-<a href="pubs/lee13icwsm-collective.pdf">ICWSM2013</a>
-<a href="pubs/caverlee07countering.pdf">PODC 2007</a>
-<a href="pubs/qiu16cikm.pdf">CIKM2016</a>
-<a href="pubs/kamath13www.pdf">WWW2013</a>
-<a href="pubs/cheng11icwsm.pdf">ICWSM2011</a>
-<a href="pubs/lu2018sigir.pdf">SIGIR2018</a>
-<a href="pubs/lu16recsys.pdf">RecSys 2016</a>
-<a href="pubs/ge16recsys.pdf">RecSys2016</a>
-<a href="pubs/cheng_sigir14.pdf">SIGIR2014</a>
-<a href="pubs/cheng10cikm.pdf">CIKM2010</a>
-<a href="imgs/wampa-small.jpg">Wampa attack</a>
-<a href="imgs/umm.JPG">thinking</a>
-<a href="imgs/coffee.JPG">coffee</a>
-<a href="imgs/caverlee_guitar.png">guitar</a>
-<a href="imgs/korean_style.jpg">Korean</a>
-<a href="imgs/on_a_bike.jpg">bike</a>
-<a href="imgs/on_a_canoe.jpg">canoe</a>
-<a href="imgs/rainy_rio.jpg">rainy</a>
-<a href="imgs/with_gandalf.jpg">Gandalf</a>
-<a href="imgs/with_the_master.jpg">GRRM</a>
-<a href="imgs/dunno.JPG">dunno</a>
-<a href="imgs/caverlee-2012.jpg">younger me</a>
-<a href="imgs/prof_JC.jpg">fancy me</a>
-<a href="imgs/collaborating.jpg">collaborating</a>
-<a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Caverlee:James.html" title="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Caverlee:James.html">DBLP</a>
-<a href="http://scholar.google.com/citations?user=LB1dq_sAAAAJ&amp;hl=en" title="http://scholar.google.com/citations?user=LB1dq_sAAAAJ&amp;hl=en">Google Scholar</a>
-<a href="https://www.semanticscholar.org/author/James-Caverlee/1697232" title="https://www.semanticscholar.org/author/James-Caverlee/1697232">Semantic Scholar</a>
-<a href="">A Large-Scale Study of ISIS Social Media Strategy</a>
-<a href="">Recurrent Recommendation with Local Coherence</a>
-<a href="pubs/he2018icdm.pdf">Pseudo-Implicit Feedback for Alleviating Data Sparsity in Top-K Recommendation</a>
-<a href="pubs/zhu2018fairness.pdf">Fairness-Aware Tensor-Based Recommendation</a>
-<a href="pubs/zhang18recsys.pdf">Quality-Aware Neural Complementary Item Recommendation</a>
-<a href="pubs/zhu18fatrec.pdf">Fairness-Aware Recommendation of Information Curators</a>
-<a href="pubs/zhao18recsyschallenge.pdf">TrailMix: An Ensemble Recommender System for Playlist Curation and Continuation</a>
-<a href="pubs/zhao18socinfo.pdf">Vitriol on Social Media: Curation and Investigation</a>
-<a href="pubs/lu2018sigir.pdf">Learning Geo-Social User Topical Profiles with Bayesian Hierarchical User Factorization</a>
-<a href="pubs/ge2018icde.pdf">DisTenC: A Distributed Algorithm for Scalable Tensor Completion on Spark</a>
-<a href="pubs/niu18wsdm.pdf">Neural Personalized Ranking for Image Recommendation</a>
-<a href="pubs/parisa18wsdm.pdf">Combating Crowdsourced Review Manipulators: A Neighborhood-Based Approach</a>
-<a href="pubs/alfifi2018mis2.pdf">Measuring the Impact of ISIS Social Media Strategy (short paper)</a>
-<a href="pubs/niu2018aaai.pdf">Location-Sensitive User Profiling Using Crowdsourced Labels</a>
-<a href="pubs/alfifi17socinfo.pdf">Badly Evolved? Exploring Long-Surviving Suspicious Users on Twitter</a>
-<a href="pubs/yao17ranlp.pdf">Online Deception Detection Refueled by Real World Data Collection</a>
-<a href="pubs/song17kdd.pdf">Multi-Aspect Streaming Tensor Completion</a>
-<a href="pubs/cao17sigir.pdf">What Are You Known For? Learning User Topical Profiles with Implicit and Explicit Footprints</a>
-<a href="pubs/li17sigir.pdf">Crowdsourced App Review Manipulation (short paper)</a>
-<a href="pubs/parisa17icwsm.pdf">Behavioral Analysis of Review Fraud: Linking Malicious Crowdsourcing to Amazon and Beyond (short paper)</a>
-<a href="pubs/qiu2018icdcs.pdf">Dynamic Contract Design for Heterogenous Workers in Crowdsourcing for Quality Control (Applications and Experiences Track)</a>
-<a href="pubs/niu16tsas.pdf">On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates</a>
-<a href="pubs/lu16recsys.pdf">Discovering What You're Known For: A Contextual Poisson Factorization Approach</a>
-<a href="pubs/ge16recsys.pdf">TAPER: A Contextual Tensor-Based Approach for Personalized Expert Recommendation</a>
-<a href="pubs/ge16cikm.pdf">Uncovering the Spatio-Temporal Dynamics of Memes in the Presence of Incomplete Information</a>
-<a href="pubs/qiu16cikm.pdf">CrowdSelect: Increasing Accuracy of Crowdsourcing Tasks through  Behavior Prediction and User Selection</a>
-<a href="pubs/niu16asonam.pdf">Community-Based Geospatial Tag Estimation</a>
-<a href="pubs/niu16ecir.pdf">LExL: A Learning Approach for Local Expert Discovery on Twitter (short paper)</a>
-<a href="pubs/ge16aaai.pdf">College Towns, Vacation Spots, and Tech Hubs: Using Geo-Social Media to Model and Compare Locations</a>
-<a href="pubs/lu15recsys.pdf">Exploiting Geo-Spatial Preference for Personalized Expert Recommendation</a>
-<a href="pubs/cheng15cikm.pdf">Organic or Organized? Exploring URL Sharing Behavior</a>
-<a href="pubs/lu15cikm.pdf">BiasWatch: A Lightweight System for Discovering and Tracking Topic-Sensitive Opinion Bias in Social Media</a>
-<a href="pubs/fayazi15sigir.pdf">Uncovering Crowdsourced Manipulation of Online Reviews</a>
-<a href="pubs/ge15icwsm.pdf">Crowds, Gigs, and Super Sellers: A Measurement Study of a Supply-Driven Crowdsourcing Marketplace</a>
-<a href="pubs/liang15ecir.pdf">A Noise-Filtering Approach for Spatio-Temporal Event Detection in Social Media</a>
-<a href="pubs/cao15ecir.pdf">Detecting Spam URLs in Social Media via Behavioral Analysis</a>
-<a href="pubs/cheng_sigir14.pdf">Who is the Barbecue King of Texas?: A Geo-Spatial Approach to Finding Local Experts</a>
-<a href="pubs/km1097-kamath.pdf">Spatio-Temporal Meme Prediction: Learning What Hashtags Will Be Popular Where</a>
-<a href="pubs/km0487-mcgee.pdf">Location Prediction in Social Media Based on Tie Strength</a>
-<a href="pubs/lee13icwsm-crowdturfing.pdf">Crowdturfers, Campaigns, and Social Media: Tracking and Revealing Crowdsourced Manipulation of Social Media</a>
-<a href="pubs/lee13campaign.pdf">Campaign Extraction from Social Media</a>
-<a href="pubs/cheng13tist.pdf">A Content-Driven Framework for Geo-locating Microblog Users</a>
-<a href="pubs/lee13icwsm-collective.pdf">Combating Threats to Collective Attention in Social Media: An Evaluation</a>
-<a href="pubs/kamath13www.pdf">Spatio-Temporal Dynamics of Online Memes: A Study of Geo-Tagged Tweets</a>
-<a href="pubs/liang13hypertext.pdf">How Big is the Crowd? Event and Location Based Population Modeling in Social Media</a>
-<a href="pubs/kamath12cikm-crowds.pdf">Content-Based Crowd Retrieval on the Real-Time Web</a>
-<a href="pubs/kamath12cikm-spatial.pdf">Spatial Influence vs. Community Influence: Modeling the Global Spread of Social Media</a>
-<a href="pubs/khabiri12ht.pdf">Predicting Semantic Annotations on the Real-Time Web</a>
-<a href="pubs/lee12webquality.pdf">Detecting Collective Attention Spam</a>
-<a href="pubs/kashoob12snam.pdf">Temporal Dynamics of Communities in Social Bookmarking Systems</a>
-<a href="pubs/cheng11cikm.pdf">Toward Traffic-Driven Location-Based Web Search</a>
-<a href="pubs/lee11cikm.pdf"> Content-Driven Detection of Campaigns in Social Media (short paper)</a>
-<a href="pubs/cheng11icwsm.pdf" title="pubs/lee11icwsm.pdf">Exploring Millions of Footprints in Location Sharing Services</a>
-<a href="pubs/lee11icwsm.pdf" title="pubs/lee11icwsm.pdf">Seven Months with the Devils: A Long-Term Study of Content Polluters on Twitter</a>
-<a href="pubs/hsu11sac.pdf" title="pubs/hsu11sac.pdf">Hierarchical Comments-Based Clustering</a>
-<a href="pubs/kamath11wsdm.pdf" title="pubs/kamath11wsdm.pdf">Transient Crowd Discovery on the Real-Time Social Web</a>
-<a href="pubs/cheng10cikm.pdf" title="pubs/cheng10cikm.pdf">You Are Where You Tweet: A Content-Based Approach to Geo-locating Twitter Users</a>
-<a href="pubs/lee10sigir.pdf" title="pubs/lee10sigir.pdf">Uncovering Social Spammers: Social Honeypots + Machine Learning</a>
-<a href="pubs/kashoob10ht.pdf" title="pubs/kashoob10ht.pdf">Community-Based Ranking of the Social Web</a>
-<a href="pubs/caverlee10socialtrust.pdf" title="pubs/caverlee10socialtrust.pdf">The SocialTrust Framework for Trusted Social Information Management: Architecture and Algorithms</a>
-<a href="pubs/hsu09socialcom.pdf" title="pubs/hsu09socialcom.pdf">Ranking Comments on the Social Web</a>
-<a href="pubs/kashoob09socialcom.pdf" title="pubs/kashoob09socialcom.pdf">Probabilistic Generative Models of the Social Annotation Process</a>
-<a href="pubs/kashoob09categorical.pdf" title="pubs/kashoob09categorical.pdf">A Categorical Model for Discovering Latent Structure in Social Annotations</a>
-<a href="pubs/ding09pagerank.pdf" title="pubs/ding09pagerank.pdf">PageRank for ranking authors in co-citation networks</a>
-<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4653482" title="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4653482">A Parameterized Approach to Spam-Resilient Link Analysis of the Web</a>
-<a href="pubs/graham08exploring.pdf" title="pubs/graham08exploring.pdf">Exploring Feedback Models in Interactive Tagging</a>
-<a href="pubs/webb08predicting.pdf" title="pubs/webb08predicting.pdf">Predicting Web Spam With HTTP Session Information</a>
-<a href="pubs/webb08socialhoneypots.pdf" title="pubs/webb08socialhoneypots.pdf">Social Honeypots: Making Friends with a Spammer Near You</a>
-<a class="class1" href="pubs/caverlee08socialtrust.pdf" title="pubs/caverlee08socialtrust.pdf">SocialTrust: Tamper-Resilient Trust Establishment in Online Communities</a>
-<a href="pubs/caverlee08alarge.pdf" title="pubs/caverlee08alarge.pdf">A Large-Scale Study of MySpace: Observations and Implications for Online Social Networks</a>
-<a href="pubs/caverlee07countering.pdf" title="pubs/caverlee07countering.pdf">Countering Web Spam with Credibility-Based Link Analysis</a>
-<a href="pubs/webb07characterizing.pdf" title="pubs/webb07characterizing.pdf">Characterizing Web Spam Using Content and HTTP Session Analysis</a>
-<a href="pubs/caverlee07ipdps.pdf" title="pubs/caverlee07ipdps.pdf">Spam-Resilient Web Rankings via Influence Throttling</a>
-<a href="pubs/bae07development.pdf" title="pubs/bae07development.pdf">Development of Distance Measures for Process Mining, Discovery, and Integration</a>
-<a href="pubs/caverlee07workflow.pdf" title="pubs/caverlee07workflow.pdf">Workflow Management for Enterprise Transformation</a>
-<a href="pubs/rocco07service.pdf" title="pubs/rocco07service.pdf">Service Class Driven Dynamic Source Discovery with DynaBot</a>
-<a href="pubs/bae06processB.pdf" title="pubs/bae06processB.pdf">Process Mining, Discovery and Integration using Distance Measures</a>
-<a href="pubs/caverlee06distributed.pdf" title="pubs/caverlee06distributed.pdf">Distributed Query-Sampling: A Quality Conscious Approach</a>
-<a href="pubs/webb06introducing.pdf" title="pubs/webb06introducing.pdf">Introducing the Webb Spam Corpus: Using Email Spam to Identify Web Spam Automatically</a>
-<a href="pubs/caverlee06discovering.pdf" title="pubs/caverlee06discovering.pdf">Discovering Interesting Relationships among Deep Web Databases: A Source-Biased Approach</a>
-<a href="pubs/liu06xwrap.pdf" title="pubs/liu06xwrap.pdf">XWRAPComposer: A Multi-Page Data Extraction Service</a>
-<a href="pubs/rocco05domain.pdf" title="pubs/rocco05domain.pdf">Domain-Specific Web Service Discovery with Service Class Descriptions</a>
-<a href="pubs/liu05xwrapcomposer.pdf" title="pubs/liu05xwrapcomposer.pdf">XWRAPComposer: A Multi-Page Data Extraction Service for Bio-Computing Applications</a>
-<a href="pubs/caverlee05qapagelet.pdf" title="pubs/caverlee05qapagelet.pdf">QA-Pagelet: Data Preparation Techniques for Large Scale Data Analysis of the Deep Web</a>
-<a href="http://www.inderscience.com/search/index.php?action=record&amp;rec_id=8319" title="http://www.inderscience.com/search/index.php?action=record&amp;rec_id=8319">A Methodical Approach to Extracting Meaningful Objects from Dynamic Web Pages</a>
-<a href="pubs/caverlee04discovering.pdf" title="pubs/caverlee04discovering.pdf">Discovering and Ranking Web Services with BASIL: A Personalized Approach with Biased Focus</a>
-<a href="pubs/caverlee04probe.pdf" title="pubs/caverlee04probe.pdf">Probe, Cluster, and Discover: Focused Extraction of QA-Pagelets from the Deep Web</a>
-<a href="http://people.tamu.edu/~alfifima/">Majid Alfifi</a>
-<a href="http://people.tamu.edu/~kaghazgaran/">Parisa Kaghazgaran</a>
-<a href="http://people.tamu.edu/~yunhe/">Yun He</a>
-<a href="http://people.tamu.edu/~jwang713/">Jianling Wang</a>
-<a href="http://people.tamu.edu/~zhan13679/">Yin Zhang</a>
-<a href="http://people.tamu.edu/~zhaoxing623/">Xing Zhao</a>
-<a href="http://people.tamu.edu/~zhuziwei/">Ziwei Zhu</a>
-<a href="https://www.linkedin.com/in/cheng-cao-28b14810a/">Cheng Cao</a>
-<a href="http://students.cse.tamu.edu/hge/">Hancheng Ge</a>
-<a href="http://students.cse.tamu.edu/hlu/">Haokai Lu</a>
-<a href="http://students.cse.tamu.edu/wei/">Wei Niu</a>
-<a href="http://students.cse.tamu.edu/zcheng/">Zhiyuan Cheng</a>
-<a href="http://web.cs.wpi.edu/~kmlee/">Kyumin Lee</a>
-<a href="http://kykamath.github.io">Krishna Kamath</a>
-<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-ekhabiri">Elham Khabiri</a>
-<a href="https://www.linkedin.com/in/brian-eoff-b8512b5">Brian Eoff</a>
-<a href="https://github.com/nod">Jeremy Kelley</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce438/">Spring 2014</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce489/">Fall 2016</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce489_2013/">Spring 2013</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce670/">Spring 2014</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce670_2013/">Spring 2013</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce670_2012/">Spring 2012</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce670_2011/">Spring 2011</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce689/">Fall 2010</a>
-<a href="http://courses.cse.tamu.edu/caverlee/cpsc689_2007/">Fall 2007</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce470_2016/">Spring 2016</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce470_2014/">Fall 2014</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce470_2013/">Fall 2013</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce470_2012/">Fall 2012</a>
-<a href="http://courses.cse.tamu.edu/caverlee/csce470_2011/">Fall 2011</a>
-<a href="oh-the-places.html">a poem?</a>
-<a href="http://courses.cse.tamu.edu/caverlee/upas181/">Fall 2009</a>
-<a href="http://asonam.cpsc.ucalgary.ca/2016/">ASONAM 2016</a>
-<a href="http://collaboratecom.org/2011/">CollaborateCom 2011</a>
-<a href="">SIGIR 2019</a>
-<a href="">SDM 2019</a>
-<a href="">WSDM 2018</a>
-<a href="">KDD 2018</a>
-<a href="">CIKM 2017</a>
-<a href="http://www.kdd.org/kdd2017/">KDD 2017</a>
-<a href="http://ijcai-16.org/">IJCAI 2016</a>
-<a href="http://cikm2016.cs.iupui.edu/">CIKM 2016</a>
-<a href="http://www.cikm-2015.org/">CIKM 2015</a>
-<a href="http://www.icwsm.org/2014/">ICWSM 2014</a>
-<a href="http://www.humancomputation.com/2016/">HCOMP 2016</a>
-<a href="http://www.sis.pitt.edu/cic2016/index.html">CIC 2016</a>
-<a href="http://icdm2016.eurecat.org/">ICDM 2016</a>
-<a href="http://www.icwsm.org/2015/">ICWSM 2016</a>
-<a href="http://www.kdd.org/kdd2016/">KDD 2016</a>
-<a href="http://sigir.org/sigir2016/">SIGIR 2016</a>
-<a href="http://usa2016.socinfo.eu/">SocInfo 2016</a>
-<a href="http://www.wsdm-conference.org/2016/">WSDM 2016</a>
-<a href="http://www2016.ca/">WWW 2016</a>
-<a href="http://www.icwsm.org/2015/">ICWSM 2015</a>
-<a href="http://www.cmsci.com.cn:808/CIC2015/index.html">IEEE CIC 2015</a>
-<a href="http://www.kdd.org/kdd2015/">KDD 2015</a>
-<a href="https://dmm.anu.edu.au/popinfo2015/">PopInfo 2015 (co-located with KDD)</a>
-<a href="http://sigir2015.org/">SIGIR 2015</a>
-<a href="http://socinfo2015.csp.escience.cn">SocInfo 2015</a>
-<a href="https://sites.google.com/site/swdmwww15/">SWDM 2015 (co-located with WWW)</a>
-<a href="http://www.wsdm-conference.org/2015/">WSDM 2015</a>
-<a href="http://www.www2015.it/">WWW 2015</a>
-<a href="http://research.microsoft.com/en-us/people/milads/taia2015.aspx">TAIA 2015 (co-located with SIGIR)</a>
-<a href="http://www.dl.kuis.kyoto-u.ac.jp/webquality2014/">WebQuality 2014 (co-located with WWW)</a>
-<a href="https://sites.google.com/site/umsocial2013/">DUBMOD 2013 (co-located with CIKM)</a>
-<a href="http://dubmod2014.csp.escience.cn/dct/page/70003">DUBMOD 2012 (co-located with CIKM)</a>
-<a href="http://tois.acm.org/">ACM TOIS</a>
-<a href="http://tiis.acm.org/">ACM TiiS</a>
-<a href="http://tissec.acm.org/">ACM TISSEC</a>
-<a href="http://tsas.acm.org/">ACM TSAS</a>
-<a href="http://tweb.acm.org/">ACM TWEB</a>
-<a href="https://www.computer.org/web/tkde">IEEE TKDE</a>
-<a href="http://cacm.acm.org/">CACM</a>
-<a href="https://www.computer.org/web/tkde">IEEE Transactions on Knowledge and Data Engineering (TKDE)</a>
-<a href="https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=9670">IEEE Intelligent Systems</a>
-<a href="https://link.springer.com/journal/13278">Social Network Analysis and Mining (Springer)</a>
-<a href="https://www.computer.org/web/tsc">IEEE Transactions on Services Computing</a>
-<a href="http://hcjournal.org/">Human Computation</a>
-<a <="" a="" href="http://www.worldscientific.com/worldscinet/ijcis">International Journal of Cooperative Information Systems</a>
-<a href="http://www.springer.com/social+sciences/population+studies/journal/10708">GeoJournal (Springer)</a>
-<a href="http://research.google.com/research-outreach.html#/research-outreach/faculty-engagement/faculty-research-award-recipients">Google Research Award</a>
-<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1149383">CAREER Award</a>
-<a href="http://faculty.cse.tamu.edu/caverlee/csc/">Project Page</a>
-<a href="http://www.eurekalert.org/pub_releases/2012-01/afoo-aag011112.php">Young Investigator Award</a>
-<a href="http://engineering.tamu.edu/news/2011/09/09/caverlee-named-montague-scholar/">Center for Teaching Excellence Montague-CTE Scholar</a>
-<a href="http://www.darpa.mil/WorkArea/DownloadAsset.aspx?id=1793">Young Faculty Award</a>
-<a href="http://research.google.com/research-outreach.html#/research-outreach/faculty-engagement/faculty-research-award-recipients">Google Research Award</a>
-<a href="http://research.google.com/research-outreach.html#/research-outreach/faculty-engagement/faculty-research-award-recipients">Google Research Award</a>
+James CaverleeHomePublicationsStudentsTeachingServiceAwardsJames CaverleeinfolabMy research targets topics from recommender systems, social media, information retrieval, data mining, emerging networked information systems, and occasional forays into distributed systems and services computing. I usually wear one of two hats in my work:
+
+
+For many years, I have studied threats to these systems, including social spam/bots [ICWSM2011, SIGIR2010], crowd-powered strategic manipulation [SIGIR2015, WSDM2018], collective attention threats [ICWSM2013], attacks on search engines [PODC 2007], and other emerging threats [CIKM2016]. 
+I'm also very interested in creating new beneficial algorithms and frameworks for these systems, including our work on geo-social characteristics of social media [WWW2013, ICWSM2011], user modeling [SIGIR2018, RecSys 2016], expert detection [RecSys2016, SIGIR2014], and geo-inferencing [CIKM2010]. 
+
+My research approach is primarily data-driven and experimental in nature.
+
+About me: I received my Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, I earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. My undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. I joined the faculty at Texas A&M in 2007. I spent most of my sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. I've been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards.
+
+Acknowledgments: Our lab has been generously supported by NSF, DARPA, AFOSR, Google, Amazon, the Texas A&M College of Engineering, and Texas A&M. Thank you!My research targets topics from recommender systems, social media, information retrieval, data mining, emerging networked information systems, and occasional forays into distributed systems and services computing. I usually wear one of two hats in my work:
+
+
+For many years, I have studied threats to these systems, including social spam/bots [ICWSM2011, SIGIR2010], crowd-powered strategic manipulation [SIGIR2015, WSDM2018], collective attention threats [ICWSM2013], attacks on search engines [PODC 2007], and other emerging threats [CIKM2016]. 
+I'm also very interested in creating new beneficial algorithms and frameworks for these systems, including our work on geo-social characteristics of social media [WWW2013, ICWSM2011], user modeling [SIGIR2018, RecSys 2016], expert detection [RecSys2016, SIGIR2014], and geo-inferencing [CIKM2010]. 
+
+My research approach is primarily data-driven and experimental in nature.
+
+About me: I received my Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, I earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. My undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. I joined the faculty at Texas A&M in 2007. I spent most of my sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. I've been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards.
+
+Acknowledgments: Our lab has been generously supported by NSF, DARPA, AFOSR, Google, Amazon, the Texas A&M College of Engineering, and Texas A&M. Thank you!ICWSM2011SIGIR2010SIGIR2015WSDM2018ICWSM2013PODC 2007CIKM2016WWW2013ICWSM2011SIGIR2018RecSys 2016RecSys2016SIGIR2014CIKM2010My research approach is primarily data-driven and experimental in nature.
+
+About me: I received my Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, I earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. My undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. I joined the faculty at Texas A&M in 2007. I spent most of my sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. I've been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards.
+
+Acknowledgments: Our lab has been generously supported by NSF, DARPA, AFOSR, Google, Amazon, the Texas A&M College of Engineering, and Texas A&M. Thank you!About me: I received my Ph.D. in Computer Science from Georgia Tech in 2007, co-advised by Ling Liu (CS) and Bill Rouse (ISYE). Before that, I earned two M.S. degrees from Stanford University: one in Computer Science in 2001 and one in Engineering-Economic Systems & Operations Research in 2000. My undergraduate degree is a B.A. in Economics (magna cum laude) from Duke University in 1996. I joined the faculty at Texas A&M in 2007. I spent most of my sabbatical in 2015 at Google as a Visiting Scientist in Ed Chi's group. I've been honored to receive an NSF CAREER award, DARPA Young Faculty award, a AFOSR Young Investigator award, as well as several teaching awards.
+
+Acknowledgments: Our lab has been generously supported by NSF, DARPA, AFOSR, Google, Amazon, the Texas A&M College of Engineering, and Texas A&M. Thank you!Acknowledgments: Our lab has been generously supported by NSF, DARPA, AFOSR, Google, Amazon, the Texas A&M College of Engineering, and Texas A&M. Thank you!Wampa attackthinkingcoffeeguitarKoreanbikecanoerainyGandalfGRRMdunnoyounger mefancy mecollaboratingDBLPGoogle ScholarSemantic ScholarA Large-Scale Study of ISIS Social Media StrategyRecurrent Recommendation with Local CoherencePseudo-Implicit Feedback for Alleviating Data Sparsity in Top-K RecommendationFairness-Aware Tensor-Based RecommendationQuality-Aware Neural Complementary Item RecommendationFairness-Aware Recommendation of Information CuratorsTrailMix: An Ensemble Recommender System for Playlist Curation and ContinuationVitriol on Social Media: Curation and InvestigationLearning Geo-Social User Topical Profiles with Bayesian Hierarchical User FactorizationDisTenC: A Distributed Algorithm for Scalable Tensor Completion on SparkNeural Personalized Ranking for Image RecommendationCombating Crowdsourced Review Manipulators: A Neighborhood-Based ApproachMeasuring the Impact of ISIS Social Media Strategy (short paper)Location-Sensitive User Profiling Using Crowdsourced LabelsBadly Evolved? Exploring Long-Surviving Suspicious Users on TwitterOnline Deception Detection Refueled by Real World Data CollectionMulti-Aspect Streaming Tensor CompletionWhat Are You Known For? Learning User Topical Profiles with Implicit and Explicit FootprintsCrowdsourced App Review Manipulation (short paper)Behavioral Analysis of Review Fraud: Linking Malicious Crowdsourcing to Amazon and Beyond (short paper)Dynamic Contract Design for Heterogenous Workers in Crowdsourcing for Quality Control (Applications and Experiences Track)On Local Expert Discovery via Geo-Located Crowds, Queries, and CandidatesDiscovering What You're Known For: A Contextual Poisson Factorization ApproachTAPER: A Contextual Tensor-Based Approach for Personalized Expert RecommendationUncovering the Spatio-Temporal Dynamics of Memes in the Presence of Incomplete InformationCrowdSelect: Increasing Accuracy of Crowdsourcing Tasks through  Behavior Prediction and User SelectionCommunity-Based Geospatial Tag EstimationLExL: A Learning Approach for Local Expert Discovery on Twitter (short paper)College Towns, Vacation Spots, and Tech Hubs: Using Geo-Social Media to Model and Compare LocationsExploiting Geo-Spatial Preference for Personalized Expert RecommendationOrganic or Organized? Exploring URL Sharing BehaviorBiasWatch: A Lightweight System for Discovering and Tracking Topic-Sensitive Opinion Bias in Social MediaUncovering Crowdsourced Manipulation of Online ReviewsCrowds, Gigs, and Super Sellers: A Measurement Study of a Supply-Driven Crowdsourcing MarketplaceA Noise-Filtering Approach for Spatio-Temporal Event Detection in Social MediaDetecting Spam URLs in Social Media via Behavioral AnalysisWho is the Barbecue King of Texas?: A Geo-Spatial Approach to Finding Local ExpertsSpatio-Temporal Meme Prediction: Learning What Hashtags Will Be Popular WhereLocation Prediction in Social Media Based on Tie StrengthCrowdturfers, Campaigns, and Social Media: Tracking and Revealing Crowdsourced Manipulation of Social MediaCampaign Extraction from Social MediaA Content-Driven Framework for Geo-locating Microblog UsersCombating Threats to Collective Attention in Social Media: An EvaluationSpatio-Temporal Dynamics of Online Memes: A Study of Geo-Tagged TweetsHow Big is the Crowd? Event and Location Based Population Modeling in Social MediaContent-Based Crowd Retrieval on the Real-Time WebSpatial Influence vs. Community Influence: Modeling the Global Spread of Social MediaPredicting Semantic Annotations on the Real-Time WebDetecting Collective Attention SpamTemporal Dynamics of Communities in Social Bookmarking SystemsToward Traffic-Driven Location-Based Web SearchContent-Driven Detection of Campaigns in Social Media (short paper)Exploring Millions of Footprints in Location Sharing ServicesSeven Months with the Devils: A Long-Term Study of Content Polluters on TwitterHierarchical Comments-Based ClusteringTransient Crowd Discovery on the Real-Time Social WebYou Are Where You Tweet: A Content-Based Approach to Geo-locating Twitter UsersUncovering Social Spammers: Social Honeypots + Machine LearningCommunity-Based Ranking of the Social WebThe SocialTrust Framework for Trusted Social Information Management: Architecture and AlgorithmsRanking Comments on the Social WebProbabilistic Generative Models of the Social Annotation ProcessA Categorical Model for Discovering Latent Structure in Social AnnotationsPageRank for ranking authors in co-citation networksA Parameterized Approach to Spam-Resilient Link Analysis of the WebExploring Feedback Models in Interactive TaggingPredicting Web Spam With HTTP Session InformationSocial Honeypots: Making Friends with a Spammer Near YouSocialTrust: Tamper-Resilient Trust Establishment in Online CommunitiesA Large-Scale Study of MySpace: Observations and Implications for Online Social NetworksCountering Web Spam with Credibility-Based Link AnalysisCharacterizing Web Spam Using Content and HTTP Session AnalysisSpam-Resilient Web Rankings via Influence ThrottlingDevelopment of Distance Measures for Process Mining, Discovery, and IntegrationWorkflow Management for Enterprise TransformationService Class Driven Dynamic Source Discovery with DynaBotProcess Mining, Discovery and Integration using Distance MeasuresDistributed Query-Sampling: A Quality Conscious ApproachIntroducing the Webb Spam Corpus: Using Email Spam to Identify Web Spam AutomaticallyDiscovering Interesting Relationships among Deep Web Databases: A Source-Biased ApproachXWRAPComposer: A Multi-Page Data Extraction ServiceDomain-Specific Web Service Discovery with Service Class DescriptionsXWRAPComposer: A Multi-Page Data Extraction Service for Bio-Computing ApplicationsQA-Pagelet: Data Preparation Techniques for Large Scale Data Analysis of the Deep WebA Methodical Approach to Extracting Meaningful Objects from Dynamic Web PagesDiscovering and Ranking Web Services with BASIL: A Personalized Approach with Biased FocusProbe, Cluster, and Discover: Focused Extraction of QA-Pagelets from the Deep WebCurrent and Former PhD Students
+
+ Majid Alfifi
+ Parisa Kaghazgaran
+ Yun He
+ Jianling Wang
+ Yin Zhang
+ Xing Zhao
+ Ziwei Zhu
+ Cheng Cao (PhD, December 2017), Current employment: Applied Scientist at Amazon
+ Hancheng Ge (PhD, December 2017), Current employment: Applied Scientist at Amazon Alexa Machine Learning
+ Haokai Lu (PhD, December 2017), Current employment: Software Engineer at Google
+ Wei Niu (PhD, December 2017), Current employment: Machine Learning Scientist at Amazon
+ Zhiyuan Cheng (PhD, May 2014), Current employment: Staff Software Engineer at Google Research
+ Kyumin Lee (PhD, August 2013), Current employment: Tenure-track Assistant Professor at Worcester Polytechnic Institute
+ Krishna Kamath (PhD, August 2013), Current employment: Staff Software Engineer at Twitter
+ Elham Khabiri (PhD, May 2013), Current employment: Research Staff Member at IBM Research
+ Said Kashoob (PhD, May 2011), Current employment: Dean at Ibri College of Technology (Oman)
+ Brian Eoff (on leave), Current employment: Senior Software Engineer at Google AI
+ Jeremy Kelley (on leave), building the future
+
+ Current and Former MS Students
+
+ Zhijiao Liu (MS, December 2015), First employment: Amazon
+ Ashraf Ibrahim (MS, December 2015), , First employment: 
+ Himanshu Barthwal (MS, August 2015), First employment: FactSet
+ Vardharaj Lakshminarasimhan (MS, December 2014), First employment: LinkedIn
+ Sindhuja Venkatesh (MS, December 2014), First employment: Amazon A9
+ Vandana Bachini (MS, December 2013), First employment: Google
+ Amir Fayazi (MS, December 2013), First employment: Google
+ Yuan Liang (MS, August 2013), First employment: Facebook
+ Prithivi Tamilarasan (MS, August 2013), First employment: eBay
+ Jeff McGee (MS, May 2013), First employment: ZipfWorks
+ Liangliang Wang (MCS, May 2011), First employment: Cisco
+ Srihari Ananthapadmanabhan  (MCS, August 2010), First employment: Yahoo!
+ Vignesh Venkataraman  (MCS, August 2010), First employment: Schlumberger
+ Karthik Ramachandran  (MCS, August 2010), First employment: Amazon
+ Lichun Li  (MCS, May 2010), First employment: Microsoft 
+ Chiao-Fang Hsu  (MS, December 2009), First employment: Amazon
+ Anupam Aggarwal  (MS, December 2009), First employment: Yahoo!
+ Chandan Aggarwal  (MCS, December 2009), First employment: Microsoft
+ Robert Graham  (MCS, December 2008), First employment: University of Texas at Austin, Applied Research Labs
+
+ Current and Former Undergrads
+Undergraduate Honor’s Thesis
+Victoria Wei, in-progress
+Kevin Nguyen, in-progress 
+Nathan Villanueva, in-progress 
+Nazif Ali, 2017
+Jason Bolden, 2013
+
+NSF REU
+April Senner, Summer 2013
+Kalil Armstrong, Summer 2012 
+Jason Bolden, Summer 2012 
+Bethany Waldmann, Summer 2009
+
+Undergraduate Researchers
+Habeeb Hooshmand, 2017-2018
+Tyler Durden, 2017 
+Jared Russell, 2017 
+Matt Shubert 2012 
+Ananta Uprety, 2012 
+Joe Cabrera, 2011 
+Michael Jablonski, 2011 
+Matt Hillary, 2009
+J. Chris Elgin, 2008
+
+Teaching
+ Courses at Texas A&M
+
+ CSCE 438, Distributed Data-Intensive Systems: Spring 2014
+ CSCE 489, Data Science and Analytics: Fall 2016, Spring 2013
+ CSCE 670, Information Storage and Retrieval (grad): Spring 2014, Spring 2013, 
+Spring 2012, Spring 2011, Spring 2010, Spring 2009, Spring 2008
+ CSCE 689, Internet-Scale Data Management: Fall 2010, Fall 2007
+ CSCE 470, Information Storage and Retrieval (undergrad): Spring 2016, Fall 2014, Fall 2013, Fall 2012, Fall 2011, Fall 2010, Fall 2009, Fall 2008 [a poem?]
+ UPAS 181, Computer Science in the Age of Twitter (1st-year seminar): Fall 2009
+
+ Other Teaching Experience
+
+ (Guest Lecturer) Georgia Tech, Introduction to Database Systems: Spring 2006, Instructor: Ling Liu
+ (Invited Lecturer) Emory University: Topics in Computer Science, Data Mining: Fall 2005, Instructor: Li Xiong
+ (Teaching Assistant) Georgia Tech, Database System Implementation: Spring 2005, Spring 2004, Instructor: Ling Liu
+ (Guest Lecturer) Georgia Tech, Data and Information Management: Spring 2004, Instructor: Brian Cooper
+ (Guest Lecturer) Georgia Tech, Advanced Internet Application Development: Spring 2004, Instructor: Ling Liu
+ (Teaching Assistant) Stanford University: Introduction to Economics: Fall 1999 to Spring 2001, Instructors: John Taylor and Marcelo Clerici-Arias
+
+Service
+
+Program committee co-chair: ASONAM 2016, CollaborateCom 2011.
+
+Senior program committee:
+SIGIR 2019,
+SDM 2019,
+WSDM 2018, 
+KDD 2018, 
+CIKM 2017, 
+KDD 2017, 
+IJCAI 2016, 
+CIKM 2016, 
+CIKM 2015, 
+ICWSM 2014.
+
+Program committee: 
+SIGIR 2017, ASONAM 2017, ICDCS 2017, ICWSM 2017, RecSys 2017, WSDM 2017, WWW 2017, 
+HCOMP 2016, 
+CIC 2016
+ICDM 2016, 
+ICWSM 2016, 
+KDD 2016, 
+SIGIR 2016, 
+SocInfo 2016, 
+WSDM 2016, 
+WWW 2016, 
+
+ICWSM 2015, 
+IEEE CIC 2015
+KDD 2015, 
+PopInfo 2015 (co-located with KDD)
+SIGIR 2015, 
+SocInfo 2015, 
+SWDM 2015 (co-located with WWW)
+WSDM 2015, 
+WWW 2015. 
+
+Tutorials co-chair: ICDCS 2017. 
+
+Workshop organizer: TAIA 2015 (co-located with SIGIR), 
+WebQuality 2014 (co-located with WWW), 
+DUBMOD 2013 (co-located with CIKM), 
+DUBMOD 2012 (co-located with CIKM).
+
+ Referee: 
+ACM TOIS, 
+ACM TiiS, 
+ACM TISSEC, 
+ACM TSAS, 
+ACM TWEB,
+IEEE TKDE,
+CACM.
+
+ Editorial board: 
+IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Intelligent Systems, Social Network Analysis and Mining (Springer), 
+IEEE Transactions on Services Computing,
+Human Computation, 
+International Journal of Cooperative Information Systems, 
+GeoJournal (Springer).
+
+NSF Panelist: Fall 2009, Spring 2010, Spring 2011, Spring 2012, Fall 2013, Fall 2015, Spring 2016, Spring 2017.
+
+Awards
+
+ Dean of Engineering Excellence Award, 2016-2017
+ Holleran-Bowman Faculty Fellow, 2016-2017
+ Google Research Award, 2014
+ College of Engineering Caterpillar Teaching Excellence Award, 2013-2014
+ Texas A&M Computer Science Undergraduate Faculty Teaching Award, 2013
+ NSF CAREER Award, 2012 [Project Page]
+ Air Force Office of Scientific Research (AFOSR) Young Investigator Award, 2012
+ Texas A&M Center for Teaching Excellence Montague-CTE Scholar, 2011-2012
+ Defense Advanced Research Projects Agency (DARPA) Young Faculty Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2010
+ Google Research Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2009
+ Google Research Award, 2008
+
+
+
+      var links = document.querySelectorAll('ul.nav.navbar-nav > li > a');
+      links.forEach(function(li) {
+        li.addEventListener('click', function() {
+          document.querySelector('button.navbar-toggle').click();
+        });
+      });Majid AlfifiParisa KaghazgaranYun HeJianling WangYin ZhangXing ZhaoZiwei ZhuCheng CaoHancheng GeHaokai LuWei NiuZhiyuan ChengKyumin LeeKrishna KamathElham KhabiriBrian EoffJeremy KelleyCurrent and Former MS Students
+
+ Zhijiao Liu (MS, December 2015), First employment: Amazon
+ Ashraf Ibrahim (MS, December 2015), , First employment: 
+ Himanshu Barthwal (MS, August 2015), First employment: FactSet
+ Vardharaj Lakshminarasimhan (MS, December 2014), First employment: LinkedIn
+ Sindhuja Venkatesh (MS, December 2014), First employment: Amazon A9
+ Vandana Bachini (MS, December 2013), First employment: Google
+ Amir Fayazi (MS, December 2013), First employment: Google
+ Yuan Liang (MS, August 2013), First employment: Facebook
+ Prithivi Tamilarasan (MS, August 2013), First employment: eBay
+ Jeff McGee (MS, May 2013), First employment: ZipfWorks
+ Liangliang Wang (MCS, May 2011), First employment: Cisco
+ Srihari Ananthapadmanabhan  (MCS, August 2010), First employment: Yahoo!
+ Vignesh Venkataraman  (MCS, August 2010), First employment: Schlumberger
+ Karthik Ramachandran  (MCS, August 2010), First employment: Amazon
+ Lichun Li  (MCS, May 2010), First employment: Microsoft 
+ Chiao-Fang Hsu  (MS, December 2009), First employment: Amazon
+ Anupam Aggarwal  (MS, December 2009), First employment: Yahoo!
+ Chandan Aggarwal  (MCS, December 2009), First employment: Microsoft
+ Robert Graham  (MCS, December 2008), First employment: University of Texas at Austin, Applied Research Labs
+
+ Current and Former Undergrads
+Undergraduate Honor’s Thesis
+Victoria Wei, in-progress
+Kevin Nguyen, in-progress 
+Nathan Villanueva, in-progress 
+Nazif Ali, 2017
+Jason Bolden, 2013
+
+NSF REU
+April Senner, Summer 2013
+Kalil Armstrong, Summer 2012 
+Jason Bolden, Summer 2012 
+Bethany Waldmann, Summer 2009
+
+Undergraduate Researchers
+Habeeb Hooshmand, 2017-2018
+Tyler Durden, 2017 
+Jared Russell, 2017 
+Matt Shubert 2012 
+Ananta Uprety, 2012 
+Joe Cabrera, 2011 
+Michael Jablonski, 2011 
+Matt Hillary, 2009
+J. Chris Elgin, 2008
+
+Teaching
+ Courses at Texas A&M
+
+ CSCE 438, Distributed Data-Intensive Systems: Spring 2014
+ CSCE 489, Data Science and Analytics: Fall 2016, Spring 2013
+ CSCE 670, Information Storage and Retrieval (grad): Spring 2014, Spring 2013, 
+Spring 2012, Spring 2011, Spring 2010, Spring 2009, Spring 2008
+ CSCE 689, Internet-Scale Data Management: Fall 2010, Fall 2007
+ CSCE 470, Information Storage and Retrieval (undergrad): Spring 2016, Fall 2014, Fall 2013, Fall 2012, Fall 2011, Fall 2010, Fall 2009, Fall 2008 [a poem?]
+ UPAS 181, Computer Science in the Age of Twitter (1st-year seminar): Fall 2009
+
+ Other Teaching Experience
+
+ (Guest Lecturer) Georgia Tech, Introduction to Database Systems: Spring 2006, Instructor: Ling Liu
+ (Invited Lecturer) Emory University: Topics in Computer Science, Data Mining: Fall 2005, Instructor: Li Xiong
+ (Teaching Assistant) Georgia Tech, Database System Implementation: Spring 2005, Spring 2004, Instructor: Ling Liu
+ (Guest Lecturer) Georgia Tech, Data and Information Management: Spring 2004, Instructor: Brian Cooper
+ (Guest Lecturer) Georgia Tech, Advanced Internet Application Development: Spring 2004, Instructor: Ling Liu
+ (Teaching Assistant) Stanford University: Introduction to Economics: Fall 1999 to Spring 2001, Instructors: John Taylor and Marcelo Clerici-Arias
+
+Service
+
+Program committee co-chair: ASONAM 2016, CollaborateCom 2011.
+
+Senior program committee:
+SIGIR 2019,
+SDM 2019,
+WSDM 2018, 
+KDD 2018, 
+CIKM 2017, 
+KDD 2017, 
+IJCAI 2016, 
+CIKM 2016, 
+CIKM 2015, 
+ICWSM 2014.
+
+Program committee: 
+SIGIR 2017, ASONAM 2017, ICDCS 2017, ICWSM 2017, RecSys 2017, WSDM 2017, WWW 2017, 
+HCOMP 2016, 
+CIC 2016
+ICDM 2016, 
+ICWSM 2016, 
+KDD 2016, 
+SIGIR 2016, 
+SocInfo 2016, 
+WSDM 2016, 
+WWW 2016, 
+
+ICWSM 2015, 
+IEEE CIC 2015
+KDD 2015, 
+PopInfo 2015 (co-located with KDD)
+SIGIR 2015, 
+SocInfo 2015, 
+SWDM 2015 (co-located with WWW)
+WSDM 2015, 
+WWW 2015. 
+
+Tutorials co-chair: ICDCS 2017. 
+
+Workshop organizer: TAIA 2015 (co-located with SIGIR), 
+WebQuality 2014 (co-located with WWW), 
+DUBMOD 2013 (co-located with CIKM), 
+DUBMOD 2012 (co-located with CIKM).
+
+ Referee: 
+ACM TOIS, 
+ACM TiiS, 
+ACM TISSEC, 
+ACM TSAS, 
+ACM TWEB,
+IEEE TKDE,
+CACM.
+
+ Editorial board: 
+IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Intelligent Systems, Social Network Analysis and Mining (Springer), 
+IEEE Transactions on Services Computing,
+Human Computation, 
+International Journal of Cooperative Information Systems, 
+GeoJournal (Springer).
+
+NSF Panelist: Fall 2009, Spring 2010, Spring 2011, Spring 2012, Fall 2013, Fall 2015, Spring 2016, Spring 2017.
+
+Awards
+
+ Dean of Engineering Excellence Award, 2016-2017
+ Holleran-Bowman Faculty Fellow, 2016-2017
+ Google Research Award, 2014
+ College of Engineering Caterpillar Teaching Excellence Award, 2013-2014
+ Texas A&M Computer Science Undergraduate Faculty Teaching Award, 2013
+ NSF CAREER Award, 2012 [Project Page]
+ Air Force Office of Scientific Research (AFOSR) Young Investigator Award, 2012
+ Texas A&M Center for Teaching Excellence Montague-CTE Scholar, 2011-2012
+ Defense Advanced Research Projects Agency (DARPA) Young Faculty Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2010
+ Google Research Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2009
+ Google Research Award, 2008
+
+
+
+      var links = document.querySelectorAll('ul.nav.navbar-nav > li > a');
+      links.forEach(function(li) {
+        li.addEventListener('click', function() {
+          document.querySelector('button.navbar-toggle').click();
+        });
+      });Current and Former Undergrads
+Undergraduate Honor’s Thesis
+Victoria Wei, in-progress
+Kevin Nguyen, in-progress 
+Nathan Villanueva, in-progress 
+Nazif Ali, 2017
+Jason Bolden, 2013
+
+NSF REU
+April Senner, Summer 2013
+Kalil Armstrong, Summer 2012 
+Jason Bolden, Summer 2012 
+Bethany Waldmann, Summer 2009
+
+Undergraduate Researchers
+Habeeb Hooshmand, 2017-2018
+Tyler Durden, 2017 
+Jared Russell, 2017 
+Matt Shubert 2012 
+Ananta Uprety, 2012 
+Joe Cabrera, 2011 
+Michael Jablonski, 2011 
+Matt Hillary, 2009
+J. Chris Elgin, 2008
+
+Teaching
+ Courses at Texas A&M
+
+ CSCE 438, Distributed Data-Intensive Systems: Spring 2014
+ CSCE 489, Data Science and Analytics: Fall 2016, Spring 2013
+ CSCE 670, Information Storage and Retrieval (grad): Spring 2014, Spring 2013, 
+Spring 2012, Spring 2011, Spring 2010, Spring 2009, Spring 2008
+ CSCE 689, Internet-Scale Data Management: Fall 2010, Fall 2007
+ CSCE 470, Information Storage and Retrieval (undergrad): Spring 2016, Fall 2014, Fall 2013, Fall 2012, Fall 2011, Fall 2010, Fall 2009, Fall 2008 [a poem?]
+ UPAS 181, Computer Science in the Age of Twitter (1st-year seminar): Fall 2009
+
+ Other Teaching Experience
+
+ (Guest Lecturer) Georgia Tech, Introduction to Database Systems: Spring 2006, Instructor: Ling Liu
+ (Invited Lecturer) Emory University: Topics in Computer Science, Data Mining: Fall 2005, Instructor: Li Xiong
+ (Teaching Assistant) Georgia Tech, Database System Implementation: Spring 2005, Spring 2004, Instructor: Ling Liu
+ (Guest Lecturer) Georgia Tech, Data and Information Management: Spring 2004, Instructor: Brian Cooper
+ (Guest Lecturer) Georgia Tech, Advanced Internet Application Development: Spring 2004, Instructor: Ling Liu
+ (Teaching Assistant) Stanford University: Introduction to Economics: Fall 1999 to Spring 2001, Instructors: John Taylor and Marcelo Clerici-Arias
+
+Service
+
+Program committee co-chair: ASONAM 2016, CollaborateCom 2011.
+
+Senior program committee:
+SIGIR 2019,
+SDM 2019,
+WSDM 2018, 
+KDD 2018, 
+CIKM 2017, 
+KDD 2017, 
+IJCAI 2016, 
+CIKM 2016, 
+CIKM 2015, 
+ICWSM 2014.
+
+Program committee: 
+SIGIR 2017, ASONAM 2017, ICDCS 2017, ICWSM 2017, RecSys 2017, WSDM 2017, WWW 2017, 
+HCOMP 2016, 
+CIC 2016
+ICDM 2016, 
+ICWSM 2016, 
+KDD 2016, 
+SIGIR 2016, 
+SocInfo 2016, 
+WSDM 2016, 
+WWW 2016, 
+
+ICWSM 2015, 
+IEEE CIC 2015
+KDD 2015, 
+PopInfo 2015 (co-located with KDD)
+SIGIR 2015, 
+SocInfo 2015, 
+SWDM 2015 (co-located with WWW)
+WSDM 2015, 
+WWW 2015. 
+
+Tutorials co-chair: ICDCS 2017. 
+
+Workshop organizer: TAIA 2015 (co-located with SIGIR), 
+WebQuality 2014 (co-located with WWW), 
+DUBMOD 2013 (co-located with CIKM), 
+DUBMOD 2012 (co-located with CIKM).
+
+ Referee: 
+ACM TOIS, 
+ACM TiiS, 
+ACM TISSEC, 
+ACM TSAS, 
+ACM TWEB,
+IEEE TKDE,
+CACM.
+
+ Editorial board: 
+IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Intelligent Systems, Social Network Analysis and Mining (Springer), 
+IEEE Transactions on Services Computing,
+Human Computation, 
+International Journal of Cooperative Information Systems, 
+GeoJournal (Springer).
+
+NSF Panelist: Fall 2009, Spring 2010, Spring 2011, Spring 2012, Fall 2013, Fall 2015, Spring 2016, Spring 2017.
+
+Awards
+
+ Dean of Engineering Excellence Award, 2016-2017
+ Holleran-Bowman Faculty Fellow, 2016-2017
+ Google Research Award, 2014
+ College of Engineering Caterpillar Teaching Excellence Award, 2013-2014
+ Texas A&M Computer Science Undergraduate Faculty Teaching Award, 2013
+ NSF CAREER Award, 2012 [Project Page]
+ Air Force Office of Scientific Research (AFOSR) Young Investigator Award, 2012
+ Texas A&M Center for Teaching Excellence Montague-CTE Scholar, 2011-2012
+ Defense Advanced Research Projects Agency (DARPA) Young Faculty Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2010
+ Google Research Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2009
+ Google Research Award, 2008
+
+
+
+      var links = document.querySelectorAll('ul.nav.navbar-nav > li > a');
+      links.forEach(function(li) {
+        li.addEventListener('click', function() {
+          document.querySelector('button.navbar-toggle').click();
+        });
+      });Courses at Texas A&M
+
+ CSCE 438, Distributed Data-Intensive Systems: Spring 2014
+ CSCE 489, Data Science and Analytics: Fall 2016, Spring 2013
+ CSCE 670, Information Storage and Retrieval (grad): Spring 2014, Spring 2013, 
+Spring 2012, Spring 2011, Spring 2010, Spring 2009, Spring 2008
+ CSCE 689, Internet-Scale Data Management: Fall 2010, Fall 2007
+ CSCE 470, Information Storage and Retrieval (undergrad): Spring 2016, Fall 2014, Fall 2013, Fall 2012, Fall 2011, Fall 2010, Fall 2009, Fall 2008 [a poem?]
+ UPAS 181, Computer Science in the Age of Twitter (1st-year seminar): Fall 2009
+
+ Other Teaching Experience
+
+ (Guest Lecturer) Georgia Tech, Introduction to Database Systems: Spring 2006, Instructor: Ling Liu
+ (Invited Lecturer) Emory University: Topics in Computer Science, Data Mining: Fall 2005, Instructor: Li Xiong
+ (Teaching Assistant) Georgia Tech, Database System Implementation: Spring 2005, Spring 2004, Instructor: Ling Liu
+ (Guest Lecturer) Georgia Tech, Data and Information Management: Spring 2004, Instructor: Brian Cooper
+ (Guest Lecturer) Georgia Tech, Advanced Internet Application Development: Spring 2004, Instructor: Ling Liu
+ (Teaching Assistant) Stanford University: Introduction to Economics: Fall 1999 to Spring 2001, Instructors: John Taylor and Marcelo Clerici-Arias
+
+Service
+
+Program committee co-chair: ASONAM 2016, CollaborateCom 2011.
+
+Senior program committee:
+SIGIR 2019,
+SDM 2019,
+WSDM 2018, 
+KDD 2018, 
+CIKM 2017, 
+KDD 2017, 
+IJCAI 2016, 
+CIKM 2016, 
+CIKM 2015, 
+ICWSM 2014.
+
+Program committee: 
+SIGIR 2017, ASONAM 2017, ICDCS 2017, ICWSM 2017, RecSys 2017, WSDM 2017, WWW 2017, 
+HCOMP 2016, 
+CIC 2016
+ICDM 2016, 
+ICWSM 2016, 
+KDD 2016, 
+SIGIR 2016, 
+SocInfo 2016, 
+WSDM 2016, 
+WWW 2016, 
+
+ICWSM 2015, 
+IEEE CIC 2015
+KDD 2015, 
+PopInfo 2015 (co-located with KDD)
+SIGIR 2015, 
+SocInfo 2015, 
+SWDM 2015 (co-located with WWW)
+WSDM 2015, 
+WWW 2015. 
+
+Tutorials co-chair: ICDCS 2017. 
+
+Workshop organizer: TAIA 2015 (co-located with SIGIR), 
+WebQuality 2014 (co-located with WWW), 
+DUBMOD 2013 (co-located with CIKM), 
+DUBMOD 2012 (co-located with CIKM).
+
+ Referee: 
+ACM TOIS, 
+ACM TiiS, 
+ACM TISSEC, 
+ACM TSAS, 
+ACM TWEB,
+IEEE TKDE,
+CACM.
+
+ Editorial board: 
+IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Intelligent Systems, Social Network Analysis and Mining (Springer), 
+IEEE Transactions on Services Computing,
+Human Computation, 
+International Journal of Cooperative Information Systems, 
+GeoJournal (Springer).
+
+NSF Panelist: Fall 2009, Spring 2010, Spring 2011, Spring 2012, Fall 2013, Fall 2015, Spring 2016, Spring 2017.
+
+Awards
+
+ Dean of Engineering Excellence Award, 2016-2017
+ Holleran-Bowman Faculty Fellow, 2016-2017
+ Google Research Award, 2014
+ College of Engineering Caterpillar Teaching Excellence Award, 2013-2014
+ Texas A&M Computer Science Undergraduate Faculty Teaching Award, 2013
+ NSF CAREER Award, 2012 [Project Page]
+ Air Force Office of Scientific Research (AFOSR) Young Investigator Award, 2012
+ Texas A&M Center for Teaching Excellence Montague-CTE Scholar, 2011-2012
+ Defense Advanced Research Projects Agency (DARPA) Young Faculty Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2010
+ Google Research Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2009
+ Google Research Award, 2008
+
+
+
+      var links = document.querySelectorAll('ul.nav.navbar-nav > li > a');
+      links.forEach(function(li) {
+        li.addEventListener('click', function() {
+          document.querySelector('button.navbar-toggle').click();
+        });
+      });Spring 2014Fall 2016Spring 2013Spring 2014Spring 2013Spring 2012Spring 2011Fall 2010Fall 2007Spring 2016Fall 2014Fall 2013Fall 2012Fall 2011a poem?Fall 2009Other Teaching Experience
+
+ (Guest Lecturer) Georgia Tech, Introduction to Database Systems: Spring 2006, Instructor: Ling Liu
+ (Invited Lecturer) Emory University: Topics in Computer Science, Data Mining: Fall 2005, Instructor: Li Xiong
+ (Teaching Assistant) Georgia Tech, Database System Implementation: Spring 2005, Spring 2004, Instructor: Ling Liu
+ (Guest Lecturer) Georgia Tech, Data and Information Management: Spring 2004, Instructor: Brian Cooper
+ (Guest Lecturer) Georgia Tech, Advanced Internet Application Development: Spring 2004, Instructor: Ling Liu
+ (Teaching Assistant) Stanford University: Introduction to Economics: Fall 1999 to Spring 2001, Instructors: John Taylor and Marcelo Clerici-Arias
+
+Service
+
+Program committee co-chair: ASONAM 2016, CollaborateCom 2011.
+
+Senior program committee:
+SIGIR 2019,
+SDM 2019,
+WSDM 2018, 
+KDD 2018, 
+CIKM 2017, 
+KDD 2017, 
+IJCAI 2016, 
+CIKM 2016, 
+CIKM 2015, 
+ICWSM 2014.
+
+Program committee: 
+SIGIR 2017, ASONAM 2017, ICDCS 2017, ICWSM 2017, RecSys 2017, WSDM 2017, WWW 2017, 
+HCOMP 2016, 
+CIC 2016
+ICDM 2016, 
+ICWSM 2016, 
+KDD 2016, 
+SIGIR 2016, 
+SocInfo 2016, 
+WSDM 2016, 
+WWW 2016, 
+
+ICWSM 2015, 
+IEEE CIC 2015
+KDD 2015, 
+PopInfo 2015 (co-located with KDD)
+SIGIR 2015, 
+SocInfo 2015, 
+SWDM 2015 (co-located with WWW)
+WSDM 2015, 
+WWW 2015. 
+
+Tutorials co-chair: ICDCS 2017. 
+
+Workshop organizer: TAIA 2015 (co-located with SIGIR), 
+WebQuality 2014 (co-located with WWW), 
+DUBMOD 2013 (co-located with CIKM), 
+DUBMOD 2012 (co-located with CIKM).
+
+ Referee: 
+ACM TOIS, 
+ACM TiiS, 
+ACM TISSEC, 
+ACM TSAS, 
+ACM TWEB,
+IEEE TKDE,
+CACM.
+
+ Editorial board: 
+IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Intelligent Systems, Social Network Analysis and Mining (Springer), 
+IEEE Transactions on Services Computing,
+Human Computation, 
+International Journal of Cooperative Information Systems, 
+GeoJournal (Springer).
+
+NSF Panelist: Fall 2009, Spring 2010, Spring 2011, Spring 2012, Fall 2013, Fall 2015, Spring 2016, Spring 2017.
+
+Awards
+
+ Dean of Engineering Excellence Award, 2016-2017
+ Holleran-Bowman Faculty Fellow, 2016-2017
+ Google Research Award, 2014
+ College of Engineering Caterpillar Teaching Excellence Award, 2013-2014
+ Texas A&M Computer Science Undergraduate Faculty Teaching Award, 2013
+ NSF CAREER Award, 2012 [Project Page]
+ Air Force Office of Scientific Research (AFOSR) Young Investigator Award, 2012
+ Texas A&M Center for Teaching Excellence Montague-CTE Scholar, 2011-2012
+ Defense Advanced Research Projects Agency (DARPA) Young Faculty Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2010
+ Google Research Award, 2010
+ Texas A&M Computer Science Graduate Faculty Teaching Award, 2009
+ Google Research Award, 2008
+
+
+
+      var links = document.querySelectorAll('ul.nav.navbar-nav > li > a');
+      links.forEach(function(li) {
+        li.addEventListener('click', function() {
+          document.querySelector('button.navbar-toggle').click();
+        });
+      });ASONAM 2016CollaborateCom 2011SIGIR 2019SDM 2019WSDM 2018KDD 2018CIKM 2017KDD 2017IJCAI 2016CIKM 2016CIKM 2015ICWSM 2014HCOMP 2016CIC 2016ICDM 2016ICWSM 2016KDD 2016SIGIR 2016SocInfo 2016WSDM 2016WWW 2016ICWSM 2015IEEE CIC 2015KDD 2015PopInfo 2015 (co-located with KDD)SIGIR 2015SocInfo 2015SWDM 2015 (co-located with WWW)WSDM 2015WWW 2015TAIA 2015 (co-located with SIGIR)WebQuality 2014 (co-located with WWW)DUBMOD 2013 (co-located with CIKM)DUBMOD 2012 (co-located with CIKM)ACM TOISACM TiiSACM TISSECACM TSASACM TWEBIEEE TKDECACMIEEE Transactions on Knowledge and Data Engineering (TKDE)IEEE Intelligent SystemsSocial Network Analysis and Mining (Springer)IEEE Transactions on Services ComputingHuman ComputationInternational Journal of Cooperative Information SystemsGeoJournal (Springer)Google Research AwardCAREER AwardProject PageYoung Investigator AwardCenter for Teaching Excellence Montague-CTE ScholarYoung Faculty AwardGoogle Research AwardGoogle Research Award
