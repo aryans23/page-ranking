@@ -1,8 +1,8 @@
 def lookup(index,keyword):
-        if keyword in index:
-            return index[keyword]
-        else:
-            return None
+	if keyword in index:
+        return index[keyword]
+    else:
+        return None
 
 def Look_up_new(index,ranks,keyword):
 	pages=lookup(index,keyword)
@@ -46,6 +46,6 @@ def compute_ranks(graph):
 	return ranks
 
 
-ranks=compute_ranks(graph)
+ranks = compute_ranks(graph)
 Look_up_new(index,ranks,"is")
 
