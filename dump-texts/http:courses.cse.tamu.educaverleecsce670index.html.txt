@@ -1,0 +1,27 @@
+<h1> CSCE 670 :: Information Storage and Retrieval :: Spring 2018 </h1>
+<a href="http://faculty.cse.tamu.edu/caverlee/">James Caverlee</a>
+<a href="http://www.cse.tamu.edu">Computer Science and
+Engineering</a>
+<a href="http://www.tamu.edu">Texas A&amp;M
+University</a>
+<a href="schedule.html">Course Schedule</a>
+<a href="project.html">Project</a>
+<a name="summary">Course Summary</a>
+<a name="comm">Communication</a>
+<a href="https://piazza.com/tamu/spring2018/csce670/home">Piazza</a>
+<a name="prereq">Prerequisites</a>
+<a name="textbooks">Textbooks</a>
+<a href="http://nlp.stanford.edu/IR-book/information-retrieval-book.html">Introduction to Information Retrieval</a>
+<a href="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521865715">Cambridge University Press</a>
+<a href="http://www.amazon.com/Introduction-Information-Retrieval-Christopher-Manning/dp/0521865719">Amazon</a>
+<a href="http://www.mmds.org">Mining of Massive Datasets</a>
+<a href="http://lintool.github.io/MapReduceAlgorithms/ed1n.html">Data-Intensive Text Processing with MapReduce</a>
+<a href="http://www.cs.cornell.edu/home/kleinber/networks%2Dbook/">Networks, Crowds, and Markets: Reasoning About a Highly Connected World</a>
+<a name="grading">Grading</a>
+<a href="https://piazza.com/tamu/spring2018/csce670">Piazza</a>
+<a href="http://theory.stanford.edu/~aiken/moss/">Stanford Moss</a>
+<a name="ada">Americans with Disabilities Act (ADA) Policy
+Statement</a>
+<a href="http://disability.tamu.edu">http://disability.tamu.edu</a>
+<a name="honor">Academic Integrity Statements</a>
+<a href="http://aggiehonor.tamu.edu">http://aggiehonor.tamu.edu</a>

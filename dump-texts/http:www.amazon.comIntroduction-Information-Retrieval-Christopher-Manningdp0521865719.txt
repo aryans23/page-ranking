@@ -1,0 +1,38 @@
+<a href="/gp/yourstore/pym/ref=pd_pyml_rhf/145-4431857-7983560">View or edit your browsing history</a>
+<a href="/gp/yourstore/pym/ref=pd_pyml_rhf/145-4431857-7983560">View or edit your browsing history</a>
+<a href="#nav-top" id="navBackToTop"><div class="navFooterBackToTop"><span class="navFooterBackToTopText">Back to top</span></div></a>
+<a class="nav_a" href="https://www.amazon.jobs">Careers</a>
+<a class="nav_a" href="https://blog.aboutamazon.com/?utm_source=gateway&amp;utm_medium=footer">Blog</a>
+<a class="nav_a" href="https://www.aboutamazon.com/?utm_source=gateway&amp;utm_medium=footer">About Amazon</a>
+<a class="nav_a" href="https://www.amazon.com/pr">Press Center</a>
+<a class="nav_a" href="https://www.amazon.com/ir">Investor Relations</a>
+<a class="nav_a" href="/amazon-devices/b/ref=footer_devices?ie=UTF8&amp;node=2102313011">Amazon Devices</a>
+<a class="nav_a" href="/gp/redirect.html/ref=footer_soa?_encoding=UTF8&amp;location=https%3A%2F%2Fservices.amazon.com%2Fcontent%2Fsell-on-amazon.htm%2Fref%3Dfooter_soa%3Fld%3DAZFSSOA&amp;source=standards&amp;token=6D14D9F0E8CC2831C68BA56C95FCDC34988C3979">Sell on Amazon</a>
+<a class="nav_a" href="https://www.amazon.com/l/ref=map_1_b2b_GW_FT?node=17882322011">Sell Under Private Brands</a>
+<a class="nav_a" href="/gp/redirect.html/ref=footer_soa?_encoding=UTF8&amp;location=https%3A%2F%2Fservices.amazon.com%2Fhandmade%2Fhandmade.html%3Fld%3DAZUSHNDFooter&amp;source=standards&amp;token=0DB36349EAB72B987928A46EC862BDF86C9039B4">Sell on Amazon Handmade</a>
+<a class="nav_a" href="/gp/redirect.html/ref=footer_sell_svcs?_encoding=UTF8&amp;location=https%3A%2F%2Fservices.amazon.com%2Fselling-services%2Fbenefits.htm%3Fld%3DAZUSVAS-globalfooter&amp;source=standards&amp;token=C11D6CD96DB34C590F5368F18106AAC385ECAAC6">Sell Your Services on Amazon</a>
+<a class="nav_a" href="https://services.amazon.com/amazon-business.html?ld=usb2bunifooter">Sell on Amazon Business</a>
+<a class="nav_a" href="https://developer.amazon.com">Sell Your Apps on Amazon</a>
+<a class="nav_a" href="https://affiliate-program.amazon.com/">Become an Affiliate</a>
+<a class="nav_a" href="https://advertising.amazon.com/?ref=ext_amzn_ftr">Advertise Your Products</a>
+<a class="nav_a" href="/gp/seller-account/mm-summary-page.html/ref=footer_publishing?ie=UTF8&amp;ld=AZFooterSelfPublish&amp;topic=200260520">Self-Publish with Us</a>
+<a class="nav_a" href="/b/ref=footer_seeall?_encoding=UTF8&amp;ld=AZUSSOA-seeall&amp;node=13605942011">See all</a>
+<a class="nav_a" href="/iss/credit/rewardscardmember/ref=footer_cbcc?_encoding=UTF8&amp;plattr=CBFOOT">Amazon Rewards Visa Signature Cards</a>
+<a class="nav_a" href="/iss/credit/storecardmember/ref=footer_plcc?_encoding=UTF8&amp;plattr=PLCCFOOT">Amazon.com Store Card</a>
+<a class="nav_a" href="/dp/B07984JN3L?_encoding=UTF8&amp;ie=UTF-8&amp;plattr=ACOMFO">Amazon Business Card</a>
+<a class="nav_a" href="/dp/B07CBJQS16/ref=footer_ccl?_encoding=UTF8&amp;ie=UTF-8&amp;place=camp&amp;plattr=CCLFOOT&amp;pr=ibprox">Amazon.com Corporate Credit Line</a>
+<a class="nav_a" href="/b/ref=footer_swp?ie=UTF8&amp;node=16218619011">Shop with Points</a>
+<a class="nav_a" href="/compare-credit-card-offers/b/ref=footer_ccmp?ie=UTF8&amp;node=3561432011">Credit Card Marketplace</a>
+<a class="nav_a" href="/Reload-Your-Gift-Card-Balance/b/ref=footer_reload_us?ie=UTF8&amp;node=10232440011">Reload Your Balance</a>
+<a class="nav_a" href="/Currency-Converter/b/ref=footer_tfx?ie=UTF8&amp;node=388305011">Amazon Currency Converter</a>
+<a class="nav_a" href="/gp/css/homepage.html/ref=footer_ya">Your Account</a>
+<a class="nav_a" href="/gp/css/order-history/ref=footer_yo">Your Orders</a>
+<a class="nav_a" href="/gp/help/customer/display.html/ref=footer_shiprates?ie=UTF8&amp;nodeId=468520">Shipping Rates &amp; Policies</a>
+<a class="nav_a" href="/gp/prime/ref=footer_prime">Amazon Prime</a>
+<a class="nav_a" href="/gp/css/returns/homepage.html/ref=footer_hy_f_4">Returns &amp; Replacements</a>
+<a class="nav_a" href="/gp/digital/fiona/manage/ref=footer_myk">Manage Your Content and Devices</a>
+<a class="nav_a" href="/gp/BIT/ref=footer_bit_v2_us_A0029?bitCampaignCode=A0029">Amazon Assistant</a>
+<a class="nav_a" href="/gp/help/customer/display.html/ref=footer_gw_m_b_he?ie=UTF8&amp;nodeId=508510">Help</a>
+<a class="nav_a" href="/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&amp;nodeId=508088">Conditions of Use</a>
+<a class="nav_a" href="/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=468496">Privacy Notice</a>
+<a class="nav_a" href="/interestbasedads/ref=footer_iba">Interest-Based Ads</a>

@@ -1,0 +1,109 @@
+<a class="skipnav js-skipnav sr-only" href="#contentarea">Skip Navigation</a>
+<a href="/index.html">Texas A&amp;M University</a>
+<a aria-controls="search" aria-expanded="false" aria-label="View search form" class="icon-search large-icon mobile-search show-for-small-only" tabindex="0"><strong><span class="sr-only">Search</span></strong></a>
+<a href="/about/index.html">About</a>
+<a href="/admissions/index.html">Admissions</a>
+<a href="/academics/index.html">Academics</a>
+<a href="/athletics/index.html">Athletics</a>
+<a href="/research/index.html">Research</a>
+<a href="/student-life/index.html">Student Life</a>
+<a href="/future-students/index.html">Future Students</a>
+<a href="/current-students/index.html">Current Students</a>
+<a href="/faculty-staff/index.html">Faculty &amp; Staff</a>
+<a href="/parents/index.html">Parents</a>
+<a href="/visitors/index.html">Visitors</a>
+<a href="/former-students/index.html">Former Students</a>
+<a href="/">Home</a>
+<a href="/about/index.html">About</a>
+<a href="/admissions/index.html">Admissions</a>
+<a href="/academics/index.html">Academics</a>
+<a href="/athletics/index.html">Athletics</a>
+<a href="/research/index.html">Research</a>
+<a href="/student-life/index.html">Student Life</a>
+<a href="/future-students/index.html">Future Students</a>
+<a href="/current-students/index.html">Current Students</a>
+<a href="/faculty-staff/index.html">Faculty &amp; Staff</a>
+<a href="/parents/index.html">Parents</a>
+<a href="/visitors/index.html">Visitors</a>
+<a href="/former-students/index.html">Former Students</a>
+<a href="http://leadbyexample.tamu.edu" style="padding: 5px; font-family: Georgia,Cambria,Times,serif; color:#500000; font-style:italic; width:100%; display:block; text-align:center;">Lead by Example</a>
+<h2 class="up dark">Featured Links</h2>
+<a aria-label="Visit the Texas A&amp;M Majors website" class="border-button border-button-white" href="http://majors.tamu.edu/" title="Visit the Texas A&amp;M Majors website">Majors</a>
+<a aria-label="Visit the Office of Graduate and Professional Studies programs and degrees website" class="border-button border-button-white" href="http://ogaps.tamu.edu/Prospective-Students/Programs-and-Degrees" title="Visit the Office of Graduate and Professional Studies programs and degrees website">Graduate &amp; Professional Programs</a>
+<a aria-label="Visit the Tuition and Costs website" class="border-button border-button-white" href="http://tuition.tamu.edu/" title="Visit the Tuition and Costs website">Tuition &amp; Costs</a>
+<a aria-label="Visit the Financial Aid website" class="border-button border-button-white" href="https://financialaid.tamu.edu/" title="Visit the Financial Aid website">Financial Aid</a>
+<a aria-label="Visit the Corps of Cadets website" href="http://corps.tamu.edu/" title="Visit the Corps of Cadets website">Corps of Cadets</a>
+<a aria-label="Visit the Veterans page" href="/veterans/" title="Visit the Veterans page">Veterans</a>
+<a aria-label="Visit the Maps page" href="/maps/index.html" title="Visit the Maps page">Maps</a>
+<a aria-label="Visit the Howdy portal" href="https://howdy.tamu.edu/" title="Visit the Howdy portal">Howdy Portal</a>
+<h2 class="up title-bg"><span>News</span></h2>
+<h2 class="up title-bg"><span>In The Spotlight</span></h2>
+<p>Learn how you can be Aggiebound and explore Texas A&amp;M.</p>
+<a aria-label="Visit the AGGIEBOUND website" class="border-button border-button-white" href="http://www.aggiebound.com/" title="Visit the AGGIEBOUND website">
+Read More
+</a>
+<p>Join Aggies everywhere as we step in and stand up to stop sexual violence at Texas A&amp;M.</p>
+<a aria-label="Visit the Step In Stand Up website" class="border-button border-button-white" href="http://stepinstandup.tamu.edu/" title="Visit the Step In Stand Up website">
+Read More
+</a>
+<p>At Texas A&amp;M, we stand together on the front lines of society's greatest challenges to secure a healthier, more sustainable, and more livable world.</p>
+<a aria-label="Visit the Texas A&amp;M Fearless On Every Front website" class="border-button border-button-white" href="http://fearlessfront.com/" title="Visit the Texas A&amp;M Fearless On Every Front website">
+Read More
+</a>
+<h2 class="up title-bg"><span>Campus Events</span></h2>
+<a class="url" href="http://feedproxy.google.com/~r/tamuEventHeadlines/~3/4-Wfe5Tda70/44130-erths-prehistoric-aquarium-adventure" itemprop="url"><span itemprop="name">Erth’s Prehistoric Aquarium Adventure</span></a>
+<a class="url" href="http://feedproxy.google.com/~r/tamuEventHeadlines/~3/xsJ7Xfam1Ws/44840-university-orchestras-concert" itemprop="url"><span itemprop="name">University Orchestras Concert</span></a>
+<a class="url" href="http://feedproxy.google.com/~r/tamuEventHeadlines/~3/nK02cQ28fKk/44841-choral-activites-holiday-spirit-of-aggieland" itemprop="url"><span itemprop="name">Choral Activities-Holiday Spirit of Aggieland</span></a>
+<a class="url" href="http://feedproxy.google.com/~r/tamuEventHeadlines/~3/UnI1rDd885s/50535-cupcake-decorating-activity" itemprop="url"><span itemprop="name">Cupcake Decorating Activity</span></a>
+<a class="url" href="http://feedproxy.google.com/~r/tamuEventHeadlines/~3/y2Ejx6ikKuk/50395-final-paper-countdown-12318" itemprop="url"><span itemprop="name">Final Paper Countdown (12/3/18)</span></a>
+<a class="url" href="http://feedproxy.google.com/~r/tamuEventHeadlines/~3/I2kX1GRctgQ/44092-celtic-woman-the-best-of-christmas" itemprop="url"><span itemprop="name">Celtic Woman: The Best of Christmas</span></a>
+<a class="maroon-text" href="http://opas.tamu.edu/celtic_woman.html">Celtic Women</a>
+<p>Celebrate this holiday season with the celestial voices of multi-platinum Irish singing sensation Celtic Woman as they present The Best of Christmas Tour.</p>
+<a class="maroon-text" href="http://registrar.tamu.edu/Catalogs,-Policies-Procedures/Academic-Calendar?_ga=2.225442451.841266074.1543266421-1430771331.1502802824">Final Exams</a>
+<p>Good luck to all Aggies as we prepare for the final projects and exams to wrap up the fall semester.</p>
+<h2 class="up title-bg"><span>What’s Happening</span></h2>
+<h2 class="up">About Texas A&amp;M</h2>
+<a href="/about/at-a-glance.html" target="_parent">Texas A&amp;M at a Glance</a>
+<a href="/traditions/index.html" target="_parent">Aggie Traditions</a>
+<a href="/about/departments.html" target="_parent">Colleges &amp; Departments</a>
+<h2 class="up">Global Scope</h2>
+<a href="http://globalsupport.tamu.edu/">Global Partnership Services</a>
+<a href="http://studyabroad.tamu.edu/">Study Abroad</a>
+<h2 class="up">Admissions</h2>
+<a href="http://aggiebound.com/">AGGIEBOUND</a>
+<a href="http://admissions.tamu.edu/">Office of Admissions</a>
+<a href="http://scholarships.tamu.edu/">Scholarships &amp; Financial Aid</a>
+<a href="http://catalog.tamu.edu/">Course Catalogs</a>
+<a href="https://tuition.tamu.edu/">Cost Calculator</a>
+<h2 class="up">Academic Resources</h2>
+<a href="http://majors.tamu.edu/">Majors</a>
+<a href="http://accountability.tamu.edu/Recognitions">Rankings &amp; Recognitions</a>
+<a href="http://library.tamu.edu/">University Libraries</a>
+<h2 class="up">Services/Resources</h2>
+<a href="http://transport.tamu.edu/">Parking &amp; Transportation</a>
+<a href="http://reslife.tamu.edu/">Housing</a>
+<a href="http://www.dineoncampus.com/tamu/">Dining</a>
+<a class="button white-button expand small shadow" href="http://www.supportaggieland.com/">Make a Gift</a>
+<a class="button white-button expand small shadow" href="/about/employment.html" target="_parent">Employment</a>
+<a class="button white-button expand small shadow" href="http://diversity.tamu.edu/">Diversity &amp; Inclusion</a>
+<a class="button white-button expand small shadow" href="/emergency/index.html" target="_parent">Emergency Preparedness</a>
+<a class="button white-button expand small shadow" href="/contact-us/index.html" target="_parent">Contact Us</a>
+<a href="http://www.tamug.edu/">Texas A&amp;M at Galveston</a>
+<a href="http://www.qatar.tamu.edu/">Texas A&amp;M at Qatar</a>
+<a href="http://www.tamhsc.edu/">Health Science Center</a>
+<a href="http://www.tamus.edu/">Texas A&amp;M University System</a>
+<a href="http://www.tamu.edu/statements/index.html">Site Policies</a>
+<a href="https://tellsomebody.tamu.edu/reportingform/">Title IX Reporting</a>
+<a href="https://scs.tamu.edu/mentalhealthresources">Mental Health Resources</a>
+<a href="https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=19681">Risk, Fraud &amp; Misconduct Hotline</a>
+<a href="https://urc.tamu.edu/media/642261/NoticeOfNonDiscrimination.pdf">Notice of Nondiscrimination</a>
+<a href="https://tx.ag/ncTPhsx">Course Schedules &amp; Syllabus, Faculty CV</a>
+<a href="http://www.thecb.state.tx.us/apps/resumes/">Institutional Resumes</a>
+<a href="https://accountability.tamu.edu/">Accountability</a>
+<a href="http://www.texas.gov/">State of Texas</a>
+<a href="https://www.tsl.texas.gov/trail/index.html">Statewide Search</a>
+<a href="http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf">State Link Policy</a>
+<a href="http://openrecords.tamu.edu/">Open Records</a>
+<a href="/statements/accreditation-complaints.html">Accreditation Complaints</a>
+<a href="http://veterans.portal.texas.gov/">Texas Veterans Portal</a>
+<a href="/statements/TAMU-CREWS.pdf">Texas CREWS (PDF)</a>

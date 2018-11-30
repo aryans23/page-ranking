@@ -1,0 +1,139 @@
+<a href="https://disability.tamu.edu/" itemprop="url">Home</a>
+<a href="https://disability.tamu.edu/home/about/" itemprop="url">About Disability Services</a>
+<a href="https://disability.tamu.edu/contact/" itemprop="url">Contact Us</a>
+<a href="https://disability.tamu.edu/faq/" itemprop="url">Frequently Asked Questions (FAQs)</a>
+<a href="https://disability.tamu.edu/events/" itemprop="url">Important Dates &amp; Deadlines</a>
+<a href="https://disability.tamu.edu/requestingaccommodations/" itemprop="url">Requesting Accommodations</a>
+<a href="https://disability.tamu.edu/process/" itemprop="url">Accommodation Request Process</a>
+<a href="https://disability.tamu.edu/documentation/" itemprop="url">Documentation Guidelines</a>
+<a href="https://disability.tamu.edu/resources/food/" itemprop="url">Food Allergies &amp; Dietary Restrictions</a>
+<a href="https://disability.tamu.edu/housing/" itemprop="url">Housing Accommodations</a>
+<a href="https://disability.tamu.edu/peernotetaker/" itemprop="url">Peer Notetakers &amp; Notetaking Volunteers</a>
+<a href="https://disability.tamu.edu/quickreg/" itemprop="url">Quick Registration</a>
+<a href="https://disability.tamu.edu/temporary/" itemprop="url">Temporary Disabilities</a>
+<a href="https://disability.tamu.edu/services/" itemprop="url">Services</a>
+<a href="https://disability.tamu.edu/ac/" itemprop="url">Accommodations Coordination</a>
+<a href="https://disability.tamu.edu/ats/" itemprop="url">Assistive Technology Services</a>
+<a href="https://disability.tamu.edu/cas/" itemprop="url">Communication Access Services</a>
+<a href="https://disability.tamu.edu/presentations/" itemprop="url">Presentations</a>
+<a href="https://disability.tamu.edu/tac/" itemprop="url">Testing Administration Center</a>
+<a href="https://disability.tamu.edu/resources/" itemprop="url">Resources &amp; Referrals</a>
+<a href="https://disability.tamu.edu/resources/nonstudents/" itemprop="url">Accommodations for Non-Students</a>
+<a href="https://disability.tamu.edu/resources/career/" itemprop="url">Career Resources</a>
+<a href="https://disability.tamu.edu/resources/evaluators/" itemprop="url">Evaluators</a>
+<a href="https://disability.tamu.edu/facultyguide/" itemprop="url">Faculty Resource Guide</a>
+<a href="https://disability.tamu.edu/financialassistance/" itemprop="url">Financial Assistance</a>
+<a href="https://disability.tamu.edu/forms/" itemprop="url">Forms &amp; Publications</a>
+<a href="https://disability.tamu.edu/resources/grievances/" itemprop="url">Grievances</a>
+<a href="https://disability.tamu.edu/resources/equipment/" itemprop="url">Medical Equipment</a>
+<a href="https://disability.tamu.edu/resources/organizations/" itemprop="url">Organizations</a>
+<a href="https://disability.tamu.edu/resources/transportation/" itemprop="url">Parking &amp; Transportation</a>
+<a href="https://disability.tamu.edu/resources/attendants/" itemprop="url">Personal Attendants</a>
+<a href="https://disability.tamu.edu/resources/therapy/" itemprop="url">Therapy Centers</a>
+<a href="https://disability.tamu.edu/resources/tutoring/" itemprop="url">Tutoring Services</a>
+<a href="https://disability.tamu.edu/contact/" itemprop="url">Contact Us</a>
+<a href="https://disability.tamu.edu/contact/staff/" itemprop="url">Meet The Staff</a>
+<a href="https://disability.tamu.edu/contact/staff-detailed/" itemprop="url">Who to Contact</a>
+<a href="https://tracker.tamu.edu/" itemprop="url">Tracker Online</a>
+<a class="screen-reader-shortcut" href="#genesis-content"> Skip to content</a>
+<a class="screen-reader-shortcut" href="#genesis-footer-widgets"> Skip to footer</a>
+<p class="site-title" itemprop="headline">Disability Services</p>
+<p class="site-description" itemprop="description"><small>Division of Student Affairs</small></p>
+<p class="site-title" itemprop="headline">Disability Services</p>
+<p class="site-description" itemprop="description"><small>Division of Student Affairs</small></p>
+<h2 class="genesis-sidebar-title screen-reader-text">Header Right</h2>
+<a href="https://disability.tamu.edu/" itemprop="url">Home</a>
+<a href="https://disability.tamu.edu/home/about/" itemprop="url">About Disability Services</a>
+<a href="https://disability.tamu.edu/contact/" itemprop="url">Contact Us</a>
+<a href="https://disability.tamu.edu/faq/" itemprop="url">Frequently Asked Questions (FAQs)</a>
+<a href="https://disability.tamu.edu/events/" itemprop="url">Important Dates &amp; Deadlines</a>
+<a href="https://disability.tamu.edu/requestingaccommodations/" itemprop="url">Requesting Accommodations</a>
+<a href="https://disability.tamu.edu/process/" itemprop="url">Accommodation Request Process</a>
+<a href="https://disability.tamu.edu/documentation/" itemprop="url">Documentation Guidelines</a>
+<a href="https://disability.tamu.edu/resources/food/" itemprop="url">Food Allergies &amp; Dietary Restrictions</a>
+<a href="https://disability.tamu.edu/housing/" itemprop="url">Housing Accommodations</a>
+<a href="https://disability.tamu.edu/peernotetaker/" itemprop="url">Peer Notetakers &amp; Notetaking Volunteers</a>
+<a href="https://disability.tamu.edu/quickreg/" itemprop="url">Quick Registration</a>
+<a href="https://disability.tamu.edu/temporary/" itemprop="url">Temporary Disabilities</a>
+<a href="https://disability.tamu.edu/services/" itemprop="url">Services</a>
+<a href="https://disability.tamu.edu/ac/" itemprop="url">Accommodations Coordination</a>
+<a href="https://disability.tamu.edu/ats/" itemprop="url">Assistive Technology Services</a>
+<a href="https://disability.tamu.edu/cas/" itemprop="url">Communication Access Services</a>
+<a href="https://disability.tamu.edu/presentations/" itemprop="url">Presentations</a>
+<a href="https://disability.tamu.edu/tac/" itemprop="url">Testing Administration Center</a>
+<a href="https://disability.tamu.edu/resources/" itemprop="url">Resources &amp; Referrals</a>
+<a href="https://disability.tamu.edu/resources/nonstudents/" itemprop="url">Accommodations for Non-Students</a>
+<a href="https://disability.tamu.edu/resources/career/" itemprop="url">Career Resources</a>
+<a href="https://disability.tamu.edu/resources/evaluators/" itemprop="url">Evaluators</a>
+<a href="https://disability.tamu.edu/facultyguide/" itemprop="url">Faculty Resource Guide</a>
+<a href="https://disability.tamu.edu/financialassistance/" itemprop="url">Financial Assistance</a>
+<a href="https://disability.tamu.edu/forms/" itemprop="url">Forms &amp; Publications</a>
+<a href="https://disability.tamu.edu/resources/grievances/" itemprop="url">Grievances</a>
+<a href="https://disability.tamu.edu/resources/equipment/" itemprop="url">Medical Equipment</a>
+<a href="https://disability.tamu.edu/resources/organizations/" itemprop="url">Organizations</a>
+<a href="https://disability.tamu.edu/resources/transportation/" itemprop="url">Parking &amp; Transportation</a>
+<a href="https://disability.tamu.edu/resources/attendants/" itemprop="url">Personal Attendants</a>
+<a href="https://disability.tamu.edu/resources/therapy/" itemprop="url">Therapy Centers</a>
+<a href="https://disability.tamu.edu/resources/tutoring/" itemprop="url">Tutoring Services</a>
+<a href="https://disability.tamu.edu/contact/" itemprop="url">Contact Us</a>
+<a href="https://disability.tamu.edu/contact/staff/" itemprop="url">Meet The Staff</a>
+<a href="https://disability.tamu.edu/contact/staff-detailed/" itemprop="url">Who to Contact</a>
+<a href="https://tracker.tamu.edu/" itemprop="url">Tracker Online</a>
+<h1 class="sow-headline">Welcome to the Department of Disability Services</h1>
+<a aria-label="display slide 1" data-goto="0" href="#">1</a>
+<h2 class="sow-headline">Informational Resources</h2>
+<a href="http://disability.tamu.edu/about">About Disability Services</a>
+<a href="http://disability.tamu.edu/requestingaccommodations">Requesting Accommodations</a>
+<a href="http://disability.tamu.edu/documentation">Submitting Documentation</a>
+<a href="http://disability.tamu.edu/services">Services Offered</a>
+<a href="http://disability.tamu.edu/facultyguide">Faculty Resource Guide</a>
+<a href="https://disability.tamu.edu/forms/">Forms &amp; Publications</a>
+<a href="http://disability.tamu.edu/events">Important Dates and Deadlines</a>
+<a href="http://disability.tamu.edu/resources/nonstudents">Accommodations for Non-Students</a>
+<a href="http://disability.tamu.edu/resources/grievances">Submitting a Grievance</a>
+<a aria-label="display slide 1" data-goto="0" href="#">1</a>
+<h2 class="sow-headline">Current Students</h2>
+<a href="http://disability.tamu.edu/electronicletters">Accommodation Letter Process</a>
+<a href="https://tracker.tamu.edu/online/#quickreg">Quick Registration</a>
+<a href="https://getmybooks.tamu.edu/">Request Materials in Alternative Formats</a>
+<a href="http://disability.tamu.edu/peernotetaker">Peer Notetakers &amp; Notetaking Volunteers</a>
+<a href="http://disability.tamu.edu/TAC/video">TAC Training Video</a>
+<a href="https://tracker.tamu.edu/online/schedule/exams#exams_table">Check your Exam Schedule</a>
+<a href="http://disability.tamu.edu/testrules/">TAC Reference Guide</a>
+<a aria-label="display slide 1" data-goto="0" href="#">1</a>
+<h2 class="sow-headline">News &amp; Features</h2>
+<a href="http://disability.tamu.edu/construction/">Campus Construction</a>
+<a href="http://disability.tamu.edu/stories/saawareness/">Service Animal Awareness</a>
+<a href="http://disability.tamu.edu/stories/">Student Stories &amp; Disability Awareness</a>
+<a href="http://disability.tamu.edu/resources/career/entrypoint/">EntryPoint Internship Program</a>
+<a href="http://disability.tamu.edu/resources/career/wp/">Workforce Recruitment Program</a>
+<a href="http://studentaffairs.tamu.edu/about/new-student-services-building/">New Student Services Building</a>
+<h1 class="screen-reader-text">Site Footer</h1>
+<a href="https://disability.tamu.edu/abouttracker/">About TRACKER Online</a>
+<a href="http://registrar.tamu.edu/general/calendar.aspx">Academic Calendar</a>
+<a href="https://disability.tamu.edu/resources/nonstudents/">Accommodations for Non-Students</a>
+<a href="https://disability.tamu.edu/facultyguide/">Faculty Resource Guide</a>
+<a href="https://disability.tamu.edu/forms/">Forms &amp; Publications</a>
+<a href="https://disability.tamu.edu/faq/">Frequently Asked Questions</a>
+<a href="https://disability.tamu.edu/resources/transportation/">Parking &amp; Transportation</a>
+<a href="https://disability.tamu.edu/statistics/">Statistics</a>
+<a href="https://disability.tamu.edu/testrules/">TAC Reference Guide</a>
+<a href="https://disability.tamu.edu/tac/video/">TAC Training Video</a>
+<a href="http://studentaffairs.tamu.edu/" target="new">Division of Student Affairs</a>
+<a href="http://cdd.tamu.edu/" target="new">Center on Disability and Development</a>
+<a href="http://itaccessibility.tamu.edu/" target="new">IT Accessibility</a>
+<a href="https://stepinstandup.tamu.edu/" target="new">Step In Stand Up</a>
+<a href="http://www.tamu.edu" target="new">Texas A&amp;M University</a>
+<a href="https://www.ahead.org/" target="new">AHEAD</a>
+<a href="http://www.txahead.org/" target="new">AHEAD in Texas</a>
+<a href="mailto:disability@tamu.edu">disability@tamu.edu</a>
+<a href="https://disability.tamu.edu/contact/#location">Location and Maps</a>
+<a href="http://www.tamu.edu/statements/index.html" itemprop="url"><span itemprop="name">Site Policies</span></a>
+<a href="https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=19681" itemprop="url"><span itemprop="name">Risk, Fraud &amp; Misconduct Hotline</span></a>
+<a href="http://www.texas.gov/" itemprop="url"><span itemprop="name">State of Texas</span></a>
+<a href="https://www.tsl.texas.gov/trail/index.html" itemprop="url"><span itemprop="name">Statewide Search</span></a>
+<a href="http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf" itemprop="url"><span itemprop="name">State Link Policy</span></a>
+<a href="http://openrecords.tamu.edu" itemprop="url"><span itemprop="name">Open Records</span></a>
+<a href="http://veterans.portal.texas.gov/" itemprop="url"><span itemprop="name">Texas Veterans Portal</span></a>
+<a href="http://www.tamu.edu/statements/TAMU-CREWS.pdf" itemprop="url"><span itemprop="name">Texas CREWS (PDF)</span></a>
+<a href="http://doit.tamu.edu">Division of Student Affairs Department of IT</a>

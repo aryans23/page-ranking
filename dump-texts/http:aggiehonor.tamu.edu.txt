@@ -1,0 +1,127 @@
+<a href="#ContentArea">Skip to Main Content</a>
+<h1 class="OOA"><a href="/">Aggie Honor System Office</a></h1>
+<a href="/">Aggie Honor System Office</a>
+<a class="CMSListMenuLink" href="/About">About</a>
+<a class="CMSListMenuLink" href="/About/Mission-Statement">Mission Statement</a>
+<a class="CMSListMenuLink" href="/About/Philosophy">Philosophy</a>
+<a class="CMSListMenuLink" href="/About/Contact-Us">Contact Us</a>
+<a class="CMSListMenuLink" href="/About/Staff">Staff</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures">Rules and Procedures</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Rules">Rules</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Rules/Functions-of-the-Aggie-Honor-System-Office">Functions of the Aggie Honor System Office</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Rules/Honor-System-Rules">Honor System Rules</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Rules/Reporting-and-Adjudication">Reporting and Adjudication</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Rules/Sanctions">Sanctions</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Rules/Appeals">Appeals</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Rules/General-Information">General Information</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures">Procedures</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Aggie-Honor-System-Office">Aggie Honor System Office</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Honor-System-Advisory-Council">Honor System Advisory Council</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Honor-Council">Honor Council</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Adjudication-Process">Adjudication Process</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Communications-and-Training">Communications and Training</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Academic-Integrity-Development-Program">Academic Integrity Development Program</a>
+<a class="CMSListMenuLink" href="/The-Honor-Council">The Honor Council</a>
+<a class="CMSListMenuLink" href="/The-Honor-Council/Joining-the-Honor-Council">Joining the Honor Council </a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Honor-Council#Responsibilities">Responsibilities</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Communications-and-Training#Communication%20Strategies">Communication Strategy</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Adjudication-Process#Adjudication%20Process-%20HC">Adjudication Process - Honor Council</a>
+<a class="CMSListMenuLink" href="/Student-Resources">Student Resources</a>
+<a class="CMSListMenuLink" href="/Student-Resources/How-Does-the-Remediation-Course-Work">How Does the Remediation Course Work?</a>
+<a class="CMSListMenuLink" href="/Student-Resources/My-Instructor-Says-I-Cheated">My Instructor Says I Cheated</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Adjudication-Process#Student%20Rights">Student Rights</a>
+<a class="CMSListMenuLink" href="/Student-Resources/First-contact-meeting-Packets">First contact meeting Packets</a>
+<a class="CMSListMenuLink" href="/Student-Resources/Student-Tips">Student Tips</a>
+<a class="CMSListMenuLink" href="/Student-Resources/Honor-Violation-Probation-Modification-Request">Honor Violation Probation Modification Request</a>
+<a class="CMSListMenuLink" href="/Faculty">Faculty</a>
+<a class="CMSListMenuLink" href="/Faculty/Teaching-Tips">Teaching Tips</a>
+<a class="CMSListMenuLink" href="/Faculty/Initiating-Contact-with-a-student-who-may-have-vio">Template for Initiating Contact with Students</a>
+<a class="CMSListMenuLink" href="/Faculty/What-To-Do">What To Do</a>
+<a class="CMSListMenuLink" href="/Faculty/What-To-Do/Appropriate-Process">Appropriate Process</a>
+<a class="CMSListMenuLink" href="/Faculty/What-To-Do/Contact-Office">Contact Office</a>
+<a class="CMSListMenuLink" href="/Faculty/What-To-Do/Gather-Information">Gather Information</a>
+<a class="CMSListMenuLink" href="/Faculty/What-To-Do/Investigation-Process">Investigation Process</a>
+<a class="CMSListMenuLink" href="/Faculty/What-To-Do/Student-Appeal">Student Appeal</a>
+<a class="CMSListMenuLink" href="/Rules-and-Procedures/Procedures/Adjudication-Process#Adjudication%20Process%20-%20Instructor">Adjudication Process</a>
+<a class="CMSListMenuLink" href="/Case-Studies">Case Studies</a>
+<a class="CMSListMenuLink" href="/Request-a-Presentation">Request a Presentation</a>
+<a class="CMSListMenuLink" href="/Upcoming-events">Upcoming events</a>
+<a class="CMSListMenuLink" href="/FAQs">FAQs</a>
+<a href="/">Home</a>
+<a href="/About">About</a>
+<a href="/About/Mission-Statement">Mission Statement</a>
+<a href="/About/Philosophy">Philosophy</a>
+<a href="/About/Contact-Us">Contact Us</a>
+<a href="/About/Staff">Staff</a>
+<a href="/Rules-and-Procedures">Rules and Procedures</a>
+<a href="/Rules-and-Procedures/Rules">Rules</a>
+<a href="/Rules-and-Procedures/Rules/Functions-of-the-Aggie-Honor-System-Office">Functions of the Aggie Honor System Office</a>
+<a href="/Rules-and-Procedures/Rules/Honor-System-Rules">Honor System Rules</a>
+<a href="/Rules-and-Procedures/Rules/Reporting-and-Adjudication">Reporting and Adjudication</a>
+<a href="/Rules-and-Procedures/Rules/Sanctions">Sanctions</a>
+<a href="/Rules-and-Procedures/Rules/Appeals">Appeals</a>
+<a href="/Rules-and-Procedures/Rules/General-Information">General Information</a>
+<a href="/Rules-and-Procedures/Procedures">Procedures</a>
+<a href="/Rules-and-Procedures/Procedures/Aggie-Honor-System-Office">Aggie Honor System Office</a>
+<a href="/Rules-and-Procedures/Procedures/Honor-System-Advisory-Council">Honor System Advisory Council</a>
+<a href="/Rules-and-Procedures/Procedures/Honor-Council">Honor Council</a>
+<a href="/Rules-and-Procedures/Procedures/Adjudication-Process">Adjudication Process</a>
+<a href="/Rules-and-Procedures/Procedures/Communications-and-Training">Communications and Training</a>
+<a href="/Rules-and-Procedures/Procedures/Academic-Integrity-Development-Program">Academic Integrity Development Program</a>
+<a href="/The-Honor-Council">The Honor Council</a>
+<a href="/The-Honor-Council/Joining-the-Honor-Council">Joining the Honor Council </a>
+<a href="/Rules-and-Procedures/Procedures/Honor-Council#Responsibilities">Responsibilities</a>
+<a href="/Rules-and-Procedures/Procedures/Communications-and-Training#Communication%20Strategies">Communication Strategy</a>
+<a href="/Rules-and-Procedures/Procedures/Adjudication-Process#Adjudication%20Process-%20HC">Adjudication Process - Honor Council</a>
+<a href="/Student-Resources">Student Resources</a>
+<a href="/Student-Resources/How-Does-the-Remediation-Course-Work">How Does the Remediation Course Work?</a>
+<a href="/Student-Resources/My-Instructor-Says-I-Cheated">My Instructor Says I Cheated</a>
+<a href="/Rules-and-Procedures/Procedures/Adjudication-Process#Student%20Rights">Student Rights</a>
+<a href="/Student-Resources/First-contact-meeting-Packets">First contact meeting Packets</a>
+<a href="/Student-Resources/Student-Tips">Student Tips</a>
+<a href="/Student-Resources/Honor-Violation-Probation-Modification-Request">Honor Violation Probation Modification Request</a>
+<a href="/Faculty">Faculty</a>
+<a href="/Faculty/Teaching-Tips">Teaching Tips</a>
+<a href="/Faculty/Initiating-Contact-with-a-student-who-may-have-vio">Template for Initiating Contact with Students</a>
+<a href="/Faculty/What-To-Do">What To Do</a>
+<a href="/Faculty/What-To-Do/Appropriate-Process">Appropriate Process</a>
+<a href="/Faculty/What-To-Do/Contact-Office">Contact Office</a>
+<a href="/Faculty/What-To-Do/Gather-Information">Gather Information</a>
+<a href="/Faculty/What-To-Do/Investigation-Process">Investigation Process</a>
+<a href="/Faculty/What-To-Do/Student-Appeal">Student Appeal</a>
+<a href="/Rules-and-Procedures/Procedures/Adjudication-Process#Adjudication%20Process%20-%20Instructor">Adjudication Process</a>
+<a href="/Case-Studies">Case Studies</a>
+<a href="/Request-a-Presentation">Request a Presentation</a>
+<a href="/Upcoming-events">Upcoming events</a>
+<a href="/FAQs">FAQs</a>
+<h2>Helpful Links</h2>
+<a href="/About">About Us</a>
+<a href="/About/Contact-Us">Contact Us</a>
+<a href="https://www.tamu.edu/about/" target="_blank">About Texas A&amp;M</a>
+<a href="http://registrar.tamu.edu/Catalogs,-Policies-Procedures/Academic-Calendar" target="_blank">Calendar - Academic</a>
+<a href="http://calendar.tamu.edu/" target="_blank">Calendar - Campus</a>
+<a href="http://student-rules.tamu.edu/" target="_blank">Student Rules</a>
+<h2>Campus Resources</h2>
+<a href="http://admissions.tamu.edu/" target="_blank">Admissions</a>
+<a href="http://careercenter.tamu.edu/" target="_blank">Career Center</a>
+<a href="http://iss.tamu.edu/" target="_blank">International Student Services</a>
+<a href="http://ogaps.tamu.edu/" target="_blank">Graduate &amp; Professional Studies</a>
+<a href="http://registrar.tamu.edu/" target="_blank">Registrar</a>
+<a href="http://reslife.tamu.edu/" target="_blank">Residence Life</a>
+<a href="http://successcenter.tamu.edu/" target="_blank">Scholarships &amp; Financial Aid</a>
+<a href="https://studentlife.tamu.edu/sas" target="_blank">Student Assistance Services</a>
+<a href="http://successcenter.tamu.edu/" target="_blank">Student Success Center</a>
+<a href="http://us.tamu.edu/" target="_blank">Undergraduate Studies</a>
+<a href="http://writingcenter.tamu.edu/" target="_blank">Writing Center</a>
+<h2><a href="/Case-Studies">Case Studies</a></h2>
+<a href="/Case-Studies">Case Studies</a>
+<a href="/Case-Studies/Case-Stud-7-There’s-a-Note-for-That">Case Study 7 There’s a Note for That</a>
+<a href="/Case-Studies/Case-Study-6-I-Share,-You-Share,-We-Share-Academic">Case Study 6 I Share, You Share, We Share Academic Misconduct</a>
+<p>While grading assignments during a winter-mester class, a grader noted that assignments submitted...</p>
+<a href="http://www.tamu.edu" target="_blank">Texas A&amp;M University</a>
+<a href="mailto:aggiehonor@tamu.edu">aggiehonor@tamu.edu</a>
+<a class="footer-link" href="http://tamu.edu">Texas A&amp;M University</a>
+<a class="footer-link" href="http://itaccessibility.tamu.edu">Accessibility</a>
+<a class="footer-link" href="http://tamu.edu/statements">Site Policies</a>
+<a class="footer-link" href="/About/Contact-Us">Contact Us</a>
+<a class="footer-link" href="/Special-Pages/Sitemap">Sitemap</a>

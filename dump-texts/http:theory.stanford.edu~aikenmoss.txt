@@ -1,0 +1,20 @@
+<h1> A System for Detecting Software Similarity</h1>
+<a href="https://github.com/Chris00/ocaml-moss">OCaml client</a>
+<a href="https://github.com/nordicway/moji"> Java version</a>
+<a href="https://github.com/Phhere/MOSS-PHP"> PHP version</a>
+<a href="http://www.similix.com">Similix Corporation</a>
+<a href='mailto:"moss@moss.stanford.edu"'>moss@moss.stanford.edu</a>
+<a href="http://moss.stanford.edu/general/scripts.html">here</a>
+<a href="https://github.com/alkanmuhammet/MossSwing">Swing GUI</a>
+<a href="https://www.dropbox.com/sh/jvq1drtb6iqeone/AAA5l1rIsjlJE57OYyzMoZlLa?dl=0">jar file</a>
+<a href="https://github.com/cacticouncil/mistletoe/releases">Python GUI</a>
+<a href="https://github.com/soachishti/moss.py">Python client</a>
+<a href="https://github.com/Chris00/ocaml-moss">OCaml client</a>
+<a href="https://github.com/wsgac/cl-moss">Common Lisp</a>
+<a href="https://github.com/nordicway/moji"> Java version</a>
+<a href="https://github.com/Phhere/MOSS-PHP"> PHP version</a>
+<a href="https://github.com/shanemay/MossApp">GUI for Windows</a>
+<a href="https://bitbucket.org/macite/moss-ruby">Ruby gem</a>
+<a href="https://github.com/hjalti/mossum">summarization/visualization script</a>
+<a href="http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf">here</a>
+<a href="http://theory.stanford.edu/~aiken/index.html">Alex Aiken's Homepage</a>

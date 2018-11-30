@@ -1,0 +1,63 @@
+<a class="button skip-nav" href="#maincontent">Skip To Main Content</a>
+<a class="" href="../index.html">College of Engineering Home</a>
+<a href="giving/index.html">Giving</a>
+<a href="contact.html">Contact</a>
+<a class="department-link" href="about/index.html">About</a>
+<a class="department-link" href="academics/index.html">Academics</a>
+<a class="department-link" href="research/index.html">Research</a>
+<a class="department-link" href="https://engineering.tamu.edu/news/newsfeed.html?tags=Computer%20Science%20and%20Engineering">News</a>
+<a class="department-link" href="profiles/index.html">People</a>
+<a class="mobile-nav--main-link" href="about/index.html">About</a>
+<a class="mobile-nav--main-link" href="academics/index.html">Academics</a>
+<a class="mobile-nav--main-link" href="research/index.html">Research</a>
+<a class="mobile-nav--main-link" href="https://engineering.tamu.edu/news/newsfeed.html?tags=Computer%20Science%20and%20Engineering">News</a>
+<a class="mobile-nav--main-link" href="profiles/index.html">People</a>
+<a class="mobile-nav--utility-link" href="giving/index.html" target="_parent">Giving</a>
+<a class="mobile-nav--utility-link" href="contact.html" target="_parent">Contact</a>
+<h2>Resources</h2>
+<p>
+				The Department of Computer Science and Engineering's track of Engineering Honors, called ACE Scholars, is an honors program for computer science and computer engineering majors in the department.
+			</p>
+<p>
+				We offer a number of scholarships funded through endowments and our Industrial Affiliates Program (IAP).
+			</p>
+<p>
+				IAP provides opportunities for industry to learn about the exciting activities in computer science and computer engineering at Texas A&amp;M
+			</p>
+<h2>Upcoming Events</h2>
+<h2>Recent News</h2>
+<p>
+				Researchers from Texas A&amp;M University and Yale University are collaborating to develop a wrist-worn, cuffless blood pressure monitoring system that could revolutionize the approach to blood pressure management.
+			</p>
+<p>
+				Department of Computer Science and Engineering supports, attends 2018 Tapia Conference.
+
+			</p>
+<p>
+				Computer science professor Jennifer Welch was recently celebrated with “The Jennifer Jubilee” at the Association for Computing Machinery Symposium on Principles of Distributed Computing.
+			</p>
+<h2 class="link-slab__title">Learn More</h2>
+<a class="link--has-icon" href="https://tees.tamu.edu/personnel/career-opportunities/" target="_blank"><span>Career Opportunities</span></a>
+<a class="link--has-icon" href="faculty-distinctions/index.html" target="_top"><span>Faculty Distinctions</span></a>
+<a class="link--has-icon" href="../media/5343785/csce-magazine-fall-2017.pdf" target="_top"><span>Read the latest Computer Science &amp; Engineering Magazine</span></a>
+<a class="link--has-icon" href="research/seminars/index.html" target="_top"><span>Seminars &amp; distinguished lectures</span></a>
+<h2><a class=" link--has-icon" href="index.html" title="Computer Science and Engineering website">The Department of Computer Science and Engineering</a></h2>
+<a class=" link--has-icon" href="index.html" title="Computer Science and Engineering website">The Department of Computer Science and Engineering</a>
+<a href="../index.html" title="College of Engineering website">College of Engineering</a>
+<a href="https://tamu.edu" rel="noopener" target="_blank" title="Texas A&amp;M University website">Texas A&amp;M University</a>
+<a href="mailto:cse-general@cse.tamu.edu">cse-general@cse.tamu.edu</a>
+<h2>Find Us On Campus</h2>
+<a href="http://aggiemap.tamu.edu?bldg=0353" rel="noopener" target="_blank" title="Harvey R Bright Building">Harvey R Bright Building</a>
+<a href="about/maps.html" title="Maps and Directions">Maps &amp; Directions</a>
+<a href="https://www.tamu.edu/map/?id=427#!m/198904" rel="noopener" target="_blank" title="Zachry Engineering Education Complex"> ZACH</a>
+<a href="mailto:easa@tamu.edu">easa@tamu.edu</a>
+<a href="https://tamu.edu" rel="noopener" style="text-decoration: underline; font-weight: bold;" target="_blank" title="Texas A&amp;M University website">Texas A&amp;M University</a>
+<a href="https://www.tamus.edu/" rel="noopener" style="text-decoration: underline; font-weight: bold;" target="_blank" title="The Texas A&amp;M University System website">The Texas A&amp;M University System</a>
+<p>Copyright © 2018, Texas A&amp;M Engineering Communications, All Rights Reserved</p>
+<a href="https://texas.gov/" rel="noopener" target="_blank" title="State of Texas website">State of Texas</a>
+<a href="https://gov.texas.gov/organization/hsgd" rel="noopener" target="_blank" title="Texas Homeland Security website">Texas Homeland Security </a>
+<a href="https://openrecords.tamu.edu" rel="noopener" target="_blank" title="Division of Finance and Operations">Open Records </a>
+<a href="https://secure.ethicspoint.com/domain/media/en/gui/19681/index.html" rel="noopener" target="_blank" title="Ethics Point website">Risk, Fraud, &amp; Misconduct Hotline</a>
+<a href="https://www.tsl.texas.gov/trail/index.html" rel="noopener" target="_blank" title="Texas State Library Archives website">Statewide Search</a>
+<a href="http://www.thecb.state.tx.us/apps/txcrews/" rel="noopener" target="_blank" title="Texas Consumer  Resource for Education and Workforce Statistics">Texas CREWS</a>
+<a href="https://ehs.tamu.edu/" id="id-hatemile-display-6438660588549478-14" rel="noopener" target="_blank" title="Environmental Health, Safety, &amp; Security website">Environmental Health, Safety, &amp; Security</a>

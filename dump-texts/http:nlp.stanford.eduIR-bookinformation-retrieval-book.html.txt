@@ -1,0 +1,82 @@
+<h1>Introduction to Information Retrieval</h1>
+<p>
+This is the companion website for the
+following book.
+</p>
+<a href="http://nlp.stanford.edu/%7Emanning/">Christopher D. Manning</a>
+<a href="http://theory.stanford.edu/~pragh/">Prabhakar Raghavan</a>
+<a href="http://www.cis.uni-muenchen.de/personen/professoren/schuetze/">Hinrich
+Schütze</a>
+<a href="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=9780521865715">
+CUP</a>
+<a href="http://search.yahoo.com/search?p=0521865719">0521865719</a>
+<a href="http://www.stanford.edu/class/cs276/">Stanford University</a>
+<a href="http://cislmu.org">University of Munich</a>
+<p>
+We'd be pleased to get feedback about how this book works out as a textbook,
+what is missing, or covered in too much detail, or what is simply
+wrong.  Please send any feedback or comments to:
+informationretrieval (at) yahoogroups (dot) com
+</p>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html">HTML
+edition</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf">PDF
+of the book  for online viewing</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf">PDF
+of the book  for printing</a>
+<a href="#anchor01">PDFs of individual chapters</a>
+<a href="http://www.stanford.edu/class/cs276/">Stanford slides and assignments</a>
+<a href="http://cislmu.org">University of Munich slides and assignments</a>
+<a href="http://nlp.stanford.edu/IR-book/html/errata.html">errata</a>
+<a href="http://nlp.stanford.edu/IR-book/essir2011">8th European Summer School on information Retrieval </a>
+<a href="information-retrieval.html">information
+retrieval resources</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/00front.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/01bool.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/boolean-retrieval-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/02voc.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/the-term-vocabulary-and-postings-lists-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/03dict.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/dictionaries-and-tolerant-retrieval-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/04const.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/index-construction-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/05comp.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/index-compression-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/06vect.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/scoring-term-weighting-and-the-vector-space-model-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/07system.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/computing-scores-in-a-complete-search-system-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/08eval.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-in-information-retrieval-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/09expand.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/relevance-feedback-and-query-expansion-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/10xml.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/xml-retrieval-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/11prob.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/probabilistic-information-retrieval-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/12lmodel.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/language-models-for-information-retrieval-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/text-classification-and-naive-bayes-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/14vcat.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/vector-space-classification-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/15svm.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/support-vector-machines-and-machine-learning-on-documents-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/16flat.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/flat-clustering-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/html/flat.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/17hier.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/hierarchical-clustering-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/18lsi.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/matrix-decompositions-and-latent-semantic-indexing-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/19web.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/web-search-basics-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/20crawl.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/web-crawling-and-indexes-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/21link.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/html/htmledition/link-analysis-1.html">html</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/99back.pdf">pdf</a>
+<a href="http://nlp.stanford.edu/IR-book/pdf/ir.bib">bib</a>
+<p> 
+
+</p>

@@ -1,0 +1,24 @@
+<h2>Log in</h2>
+<a class="bottomLine" href="/forgot_password.html" style="font-size:12px;">Forgot your password?</a>
+<h2 id="school-name">Texas A&amp;M University</h2>
+<p><a href="/school-search">(change school)</a></p>
+<a href="/school-search">(change school)</a>
+<p class="header">Are you a professor?</p>
+<p>Click here to create &amp; join classes</p>
+<a href="#">(go back &amp; edit classes)</a>
+<a>Add Another Class</a>
+<p style="text-align:center;"><a class="login_other_account" href="#" style="display:none">Click here to log in to your other account</a></p>
+<a class="login_other_account" href="#" style="display:none">Click here to log in to your other account</a>
+<a>Log out</a>
+<p class="error match">Uh oh! Your email addresses don't match.</p>
+<p class="header">Validation Code:</p>
+<p class="error">Uh-oh! Invalid code.</p>
+<p class="header">Not Getting Our Email?</p>
+<a href="#" id="resend-registration-email">Click here to resend</a>
+<p class="support">If it's still not there, please email us at team@piazza.com for help!</p>
+<p class="error">Uh oh! Email and password don't match.</p>
+<p class="forgot"><a href="/forgot_password.html" target="_blank">Forgot your password?</a></p>
+<a href="/forgot_password.html" target="_blank">Forgot your password?</a>
+<p class="error match">Uh oh! Your email addresses don't match.</p>
+<p class="footer">Unable to sign up? Email us at team@piazza.com and we'll help you get started!</p>
+<p>Thank you for adding your classes!</p>
