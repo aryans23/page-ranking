@@ -61,9 +61,9 @@ def crawl_web(seed_url):
     return graph
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36'}
-# url = "https://www.amazon.com/"
-url = "http://courses.cse.tamu.edu/caverlee/csce670/index.html"
-pageslimit = 20
+url = "https://www.microsoft.com/"
+# url = "http://courses.cse.tamu.edu/caverlee/csce670/index.html"
+pageslimit = 100
 if os.path.exists("html-crawled.txt"):
     os.remove("html-crawled.txt")
 if os.path.exists("dump-texts"):

@@ -1,4 +1,0 @@
-Home1st Edition1.N Edition2nd EditionData-Intensive Text Processingwith MapReduceby Jimmy Lin and Chris DyerI'm calling the "1.N Edition" the current version of the book,
-which contains additions and corrections from the published Morgan
-& Claypool version.View Latex Source
-Download current PDFView Latex SourceDownload current PDF
