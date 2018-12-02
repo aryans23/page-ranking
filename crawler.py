@@ -7,7 +7,8 @@ import re
 
 def save_page_text(url):
     try:
-        page_response = requests.get(url, timeout=5, headers=headers)
+        page_response = requests.get(url, timeout=5)
+        # page_response = requests.get(url, timeout=5, headers=headers)
     except:
         print "ERROR in saving text of url: ", url
         return
@@ -23,7 +24,8 @@ def save_page_text(url):
 
 def get_all_links(page_url):
     links=[]
-    page_response = requests.get(url, timeout=5, headers=headers)
+    page_response = requests.get(url, timeout=5)
+    # page_response = requests.get(url, timeout=5, headers=headers)
     soup = BeautifulSoup(page_response.content, "html.parser")
     # print("*********** Printing links for Page: ",page_url)        
     for link in soup.find_all('a', href=True):
@@ -60,8 +62,9 @@ def crawl_web(seed_url):
         print "************* Graph size =",len(graph)
     return graph
 
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36'}
-url = "https://www.microsoft.com/"
+# headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36'}
+# url = "https://www.microsoft.com/"
+url = "https://www.nvidia.com"
 # url = "http://courses.cse.tamu.edu/caverlee/csce670/index.html"
 pageslimit = 100
 if os.path.exists("html-crawled.txt"):

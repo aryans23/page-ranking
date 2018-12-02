@@ -1,0 +1,5 @@
+NVIDIAMy Account
+  <span class="nav-profile-logo pull-left"
+							title='My Account'></span>  <span class="nav-profile-text pull-left hide">sign in</span>AI and Deep LearningAutonomous MachinesData CenterDESIGN & PRO VISUALIZATIONHEALTHCARESelf-Driving CarsGeForce GamingSHIELDDevelopersCommunityShopDriversSupportAbout NVIDIAView All ProductsAI Computing ModelNVIDIA BlogCommunityCareersVIRTUAL REALITYOverviewSpecsBlogOverviewSpecsBlogShopOverviewSpecsBlogSmart Homeinstructions how to enable JavaScript in your web browser.Compatible Brands* SmartThings Link requiredCompareSHIELD Rewards ProgramFor DevelopersSHIELD ForumsFAQsKnowledge BaseSoftware UpdatesPurchase SupportSubscribeGet The Latest From NVIDIA On ShieldPrivacy policyFacebookTwitterYouTubeTwitch<img class="global-footer__region__icon" src="/etc/designs/nvidiaGDC/clientlibs_base/images/country-selector/us.png" />
+
+		           USA - United StatesPrivacy PolicyLegal InfoContact Us

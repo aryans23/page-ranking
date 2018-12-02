@@ -1,0 +1,14 @@
+Skip to main contentNEWSBLOGFORUMSSearch formJoinLoginRTXGAMEWORKSDESIGNWORKSVRWORKSCOMPUTEWORKSJETPACKDRIVECLARANVIDIA DRIVE Developer ProgramJoin the DRIVE Developer Program to get started building applications for autonomous vehicles.LEARN MORELEARN MORENVIDIA DEEP LEARNING INSTITUTE + UDACITYLEARN MORELEARN MOREDEEP LEARNINGPreviousNextHomeDRIVENVIDIA DRIVE™ AGX Platform is a scalable computing platform that enables automakers and tier 1 suppliers to accelerate production of automated and autonomous vehicles.Inside the vehicle, DRIVE™ AGX is capable of processing in real-time:
+            
+Sensor data from the camera, radar, and lidar sensors
+Vehicle localization
+Safe and robust path planning
+
+NVIDIA DRIVE™ AGX is the world's most advanced self-driving car platform that combines deep learning, sensor fusion, and surround vision to change the driving experience.
+The scalable architecture is available in a variety of configurations including:
+            
+DRIVE™ AGX Xavier that features a single Xavier SoC and is rated at 30 TOPS
+DRIVE™ AGX Pegasus that features two Xavier SoCs and two next-generation Tensor Core GPUs, capable of processing 320 TOPSNVIDIA DRIVE™ AGX is the world's most advanced self-driving car platform that combines deep learning, sensor fusion, and surround vision to change the driving experience.The scalable architecture is available in a variety of configurations including:
+            
+DRIVE™ AGX Xavier that features a single Xavier SoC and is rated at 30 TOPS
+DRIVE™ AGX Pegasus that features two Xavier SoCs and two next-generation Tensor Core GPUs, capable of processing 320 TOPSContact Us for details and to order your DRIVE AGX Developer Kit.Contact UsPLATFORMSOFTWAREDOWNLOADDOCUMENTATIONLEARNSUPPORTCOMPUTEWORKSGAMEWORKSJETPACKDESIGNWORKSDRIVELegal InformationPrivacy Policy

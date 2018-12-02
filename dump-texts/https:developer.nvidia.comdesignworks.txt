@@ -1,0 +1,14 @@
+Skip to main contentAboutContactForumsBlogSearch formJoinLoginAn Introduction to NVIDIA OptiXSIGN UPOptiX SDK 5.1 Available Now!OptiX gets even faster!
+Version 5.1 introduces multiple performance and
+developement enhancements as well as HDR support
+in the AI-accelerated denoiser.Learn more about OptiX 5.1Learn more about OptiX 5.1DesignWorks at GTC2018Watch NowVideo Codec SDK 8.1 Now AvailableThe Video Codec SDK 8.1 adds new samples, improved performance
+and region of interest encoding support.Learn more about Video Codec SDKLearn more about Video Codec SDKNVIDIA HOLODECKPhotorealistic Collaborative Design in VR.
+APPLY NOW FOR EARLY ACCESSAPPLY NOW FOR EARLY ACCESSAPPLY NOW FOR EARLY ACCESSPreviousNextHomeDesignWorksDesignWorksNVIDIA DesignWorks is a collection of products for building GPU-accelerated Professional Visualization applications. It includes Software Development Kits, libraries, samples for Render, Video and Display solutions. These products enable developers, researchers and scientists across industries to benefit from the thousands of computing cores on modern GPUs along with the power of dedicated hardware units for accelerated Video processing. 
+      
+      DesignWorks is ideally suited for developers in:Platforms and TechnologiesRendering
+Solutions for creating realistic images using ray tracing, or real time rendering techniques with OpenGL®, DirectX®, or Vulkan™.OptiX, MDL, vMaterials, GVDB, IndeX, VXGI, Path Rendering, NvPro, VRWorksRenderingOptiXPhysics
+Rigid bodies, cloth, destruction, particles and fluids.PhysXPhysicsVideo
+Technologies for low-latency and high compression quality video experience.GPUDirect for Video, Capture SDK, Video Codec SDKVideoManagement
+SDKs for efficient management through application interface.NVAPI, NVWMI, NVML, Virtual GPU (GRID)ManagementDisplay
+Technologies that are easy to adopt for boundless and scalable display solutions.Mosaic, Warp & BlendDisplaySamples
+Best practices and optimization techniques for professional Visualization developersSamplesPerformanceFrom video on demand to advanced ray-tracing, DesingWorks SDKs enable you to leverage the maximum performance from your GPU delivering groundbreaking results.Video Codec SDKGVDB VoxelsScalableWe are constantly advancing visualization by developing new technologies that leverage the most advanced GPU architectures and compute languages.Our technologies are deployed on platforms from mobile to laptops to supercomputers powering the cloud.Partner EcosystemJoin the NVIDIA Developer ProgramGet access to the latest software releases and tools and receive notifications and invites to join special developer events, early access programs and educational webinars. The program is free-to-join and open to all developers.Sign up and join nowSign up and join nowCOMPUTEWORKSGAMEWORKSJETPACKDESIGNWORKSDRIVELegal InformationPrivacy Policy
