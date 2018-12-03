@@ -48,9 +48,9 @@ class Ranker():
 				text_bonus = 0
 				for t in cur_tokens:
 					if 'buy' in t:
-						text_bonus += 3
+						text_bonus += 2
 					elif 'price' in t:
-						text_bonus += 3
+						text_bonus += 2
 					if t in weights.keys():
 						score += weights[t]
 					score += text_bonus

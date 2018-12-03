@@ -41,8 +41,9 @@ class Crawler():
         count = 0
         try:
             page_response = requests.get(page_url, timeout=5)
-        except Exception as e:
-            raise e
+        except:
+            print "ERROR in saving text of url: ", url
+            return
         # page_response = requests.get(url, timeout=5, headers=headers)
         soup = BeautifulSoup(page_response.content, "html.parser")
         # print("*********** Printing links for Page: ",page_url)        
