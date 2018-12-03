@@ -42,5 +42,5 @@ def get_features(verbose=False):
 		if verbose:
 			print s + ": " + str(w)
 
-	print "************* Features compted!"
+	print "************* Features computed!"
 	return weights

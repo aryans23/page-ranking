@@ -4,11 +4,14 @@ from nltk.tokenize import RegexpTokenizer
 import re
 import nltk
 from nltk.corpus import stopwords
+from Queue import PriorityQueue
 
 def rank(verbose=False):
 	tokenizer = RegexpTokenizer(r'\w+')
 	ps = nltk.stem.PorterStemmer()
 	weights = get_features(False)
+	ranks = PriorityQueue()
+
 	for filename in os.listdir("./dump-texts"):
 		file = os.path.join("dump-texts",filename)
 		url = filename[10:-4].replace('--','/')
@@ -26,10 +29,19 @@ def rank(verbose=False):
 			score = score/len(cur_tokens)
 			if verbose:
 				print "SCORE = ", score
+			ranks.put((-1*score, url))
+	print "************* Ranks computed!"
+	return ranks
 
+def ranklist(ranks):
+	print "Printing Rank List"
+	while not ranks.empty():
+		next_item = ranks.get()
+		print(next_item)
 
 def main():
-	rank(True)
+	ranks = rank()
+	ranklist(ranks)
 
 if __name__ == '__main__':
 	main()
