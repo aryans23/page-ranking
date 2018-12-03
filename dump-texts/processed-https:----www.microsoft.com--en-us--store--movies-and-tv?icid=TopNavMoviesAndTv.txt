@@ -91,7 +91,11 @@ From  $3.99Mile 22
 2018
 
 
-From  $3.99Crazy Rich Asians
+From  $3.99Searching
+2018
+
+
+From  $4.99Crazy Rich Asians
 2018
 
 
@@ -103,11 +107,7 @@ From  $4.99Alpha
 2018
 
 
-From  $3.99Searching
-2018
-
-
-From  $4.99BlacKkKlansman
+From  $3.99BlacKkKlansman
 2018
 
 
@@ -123,19 +123,15 @@ From  $4.99Deadpool 2
 2018
 
 
-From  $4.99Christopher Robin
-2018
-
-
 From  $4.99Solo: A Star Wars Story
 2018
 
 
-From  $4.99Ready Player One
+From  $4.99Christopher Robin
 2018
 
 
-From  $3.99Jurassic World: Fallen Kingdom
+From  $4.99Jurassic World: Fallen Kingdom
 2018
 
 
@@ -147,19 +143,23 @@ From  $4.99Tag
 2018
 
 
-From  $3.99Papillon
+From  $3.99Sicario: Day of the Soldado
 2018
 
 
-From  $5.99Sicario: Day of the Soldado
+From  $4.99Papillon
 2018
 
 
-From  $4.99The Clovehitch Killer
+From  $5.99The Clovehitch Killer
 2018
 
 
-From  $6.99Show allFeatured moviesShow allElf/Elf: Buddy's Sing & Cheer Along Edition
+From  $6.99A Quiet Place
+2018
+
+
+From  $3.99Show allFeatured moviesShow allElf/Elf: Buddy's Sing & Cheer Along Edition
 2018
 
 
@@ -306,25 +306,25 @@ From  $2.99New TV showsShow allStar Trek: Discovery
 10 seasonsBarry
 1 seasonShow allTop-selling TV showsShow allVikings
 5 seasonsThe Walking Dead
-9 seasonsDragon Ball Super
-6 seasonsStar Trek: Discovery
-1 seasonGame of Thrones
+9 seasonsStar Trek: Discovery
+1 seasonDragon Ball Super
+6 seasonsGame of Thrones
 7 seasonsThe Big Bang Theory
 12 seasonsNaruto Shippuden Uncut
 8 seasonsThe Flash (2014)
-5 seasonsImpractical Jokers
-13 seasonsSouth Park
+5 seasonsSouth Park
 22 seasonsArrow
-7 seasonsArcher Seasons 1-8
-1 seasonDoctor Who
+7 seasonsDoctor Who
 11 seasonsGhost Adventures
 19 seasonsThe Curse of Oak Island
-6 seasonsBerserk
-2 seasonsFamily Guy
-17 seasonsMayans M.C.
-1 seasonSupernatural
-14 seasonsArcher
-9 seasonsShow allFeatured TV showsShow allAdventure Time
+6 seasonsImpractical Jokers
+13 seasonsSupernatural
+14 seasonsFamily Guy
+17 seasonsBlack Sails
+4 seasonsMayans M.C.
+1 seasonRick and Morty
+3 seasonsIt's Always Sunny in Philadelphia
+14 seasonsShow allFeatured TV showsShow allAdventure Time
 12 seasonsThe Flash (2014)
 5 seasonsThe Original Christmas Classics
 1 seasonRuPaul's Drag Race All Stars

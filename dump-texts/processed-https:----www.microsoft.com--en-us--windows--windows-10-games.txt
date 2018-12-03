@@ -115,14 +115,14 @@ $6.99
 Rated 4.5 out of 5 stars
 
 
-4.69999980926514
+4.5
 5
 
-There are 29 reviews
-29
+There are 30 reviews
+30
 
 
-$9.994.69999980926514
+$9.994.5
 5Candy Crush Friends Saga 
 Rated 4.5 out of 5 stars
 
@@ -130,7 +130,7 @@ Rated 4.5 out of 5 stars
 4.59999990463257
 5
 
-There are 8277 reviews
+There are 8239 reviews
 8K
 
 
@@ -161,7 +161,7 @@ Rated 5 out of 5 stars
 4.80000019073486
 5
 
-There are 274287 reviews
+There are 274432 reviews
 274K
 
 
@@ -178,7 +178,7 @@ Rated 5 out of 5 stars
 4.80000019073486
 5
 
-There are 257645 reviews
+There are 257802 reviews
 257K
 
 
@@ -195,7 +195,7 @@ Rated 5 out of 5 stars
 4.80000019073486
 5
 
-There are 258199 reviews
+There are 258355 reviews
 258K
 
 
@@ -221,14 +221,14 @@ $14.994.40000009536743
 Rated 5 out of 5 stars
 
 
-4.90000009536743
+5
 5
 
-There are 19 reviews
-19
+There are 20 reviews
+20
 
 
-$14.994.90000009536743
+$14.995
 5Forza Horizon 4 Demo 
 Rated 3.5 out of 5 stars
 
@@ -236,7 +236,7 @@ Rated 3.5 out of 5 stars
 3.70000004768372
 5
 
-There are 1713 reviews
+There are 1714 reviews
 1K
 
 
@@ -292,7 +292,7 @@ Rated 4.5 out of 5 stars
 4.5
 5
 
-There are 79216 reviews
+There are 79163 reviews
 79K
 
 
@@ -306,7 +306,7 @@ Rated 5 out of 5 stars
 4.80000019073486
 5
 
-There are 274287 reviews
+There are 274432 reviews
 274K
 
 
@@ -323,7 +323,7 @@ Rated 3.5 out of 5 stars
 3.5
 5
 
-There are 20154 reviews
+There are 20156 reviews
 20K
 
 
@@ -341,7 +341,7 @@ Rated 4 out of 5 stars
 3.79999995231628
 5
 
-There are 5771 reviews
+There are 5769 reviews
 5K
 
 
@@ -353,7 +353,7 @@ Rated 4.5 out of 5 stars
 4.5
 5
 
-There are 79230 reviews
+There are 79169 reviews
 79K
 
 
@@ -365,7 +365,7 @@ Rated 5 out of 5 stars
 4.80000019073486
 5
 
-There are 258199 reviews
+There are 258355 reviews
 258K
 
 
@@ -382,7 +382,7 @@ Rated 4.5 out of 5 stars
 4.30000019073486
 5
 
-There are 20252 reviews
+There are 20253 reviews
 20K
 
 
@@ -400,7 +400,7 @@ Rated 4.5 out of 5 stars
 4.69999980926514
 5
 
-There are 86537 reviews
+There are 86560 reviews
 86K
 
 
@@ -426,7 +426,7 @@ Rated 4 out of 5 stars
 3.90000009536743
 5
 
-There are 39531 reviews
+There are 39532 reviews
 39K
 
 
@@ -492,7 +492,7 @@ Rated 4.5 out of 5 stars
 4.30000019073486
 5
 
-There are 26480 reviews
+There are 26476 reviews
 26K
 
 
@@ -549,7 +549,7 @@ Rated 5 out of 5 stars
 4.80000019073486
 5
 
-There are 257645 reviews
+There are 257802 reviews
 257K
 
 
@@ -580,7 +580,7 @@ Rated 4.5 out of 5 stars
 4.40000009536743
 5
 
-There are 29838 reviews
+There are 29837 reviews
 29K
 
 
@@ -597,7 +597,7 @@ Rated 4.5 out of 5 stars
 4.5
 5
 
-There are 17597 reviews
+There are 17601 reviews
 17K
 
 
@@ -614,7 +614,7 @@ Rated 3.5 out of 5 stars
 3.70000004768372
 5
 
-There are 1713 reviews
+There are 1714 reviews
 1K
 
 
@@ -627,7 +627,7 @@ Rated 4.5 out of 5 stars
 4.59999990463257
 5
 
-There are 276329 reviews
+There are 276327 reviews
 276K
 
 
@@ -644,7 +644,7 @@ Rated 4.5 out of 5 stars
 4.59999990463257
 5
 
-There are 8277 reviews
+There are 8239 reviews
 8K
 
 
@@ -678,7 +678,7 @@ Rated 4 out of 5 stars
 4.19999980926514
 5
 
-There are 42127 reviews
+There are 42123 reviews
 42K
 
 
@@ -695,8 +695,8 @@ Rated 4 out of 5 stars
 3.90000009536743
 5
 
-There are 934 reviews
-934
+There are 937 reviews
+937
 
 
 
@@ -708,7 +708,7 @@ Rated 4 out of 5 stars
 4.19999980926514
 5
 
-There are 69667 reviews
+There are 69652 reviews
 69K
 
 
@@ -725,7 +725,7 @@ Rated 4.5 out of 5 stars
 4.5
 5
 
-There are 9383 reviews
+There are 9384 reviews
 9K
 
 
@@ -742,7 +742,7 @@ Rated 4.5 out of 5 stars
 4.59999990463257
 5
 
-There are 28200 reviews
+There are 28203 reviews
 28K
 
 
@@ -759,7 +759,7 @@ Rated 4.5 out of 5 stars
 4.40000009536743
 5
 
-There are 116597 reviews
+There are 116595 reviews
 116K
 
 
@@ -776,8 +776,8 @@ Rated 4 out of 5 stars
 4
 5
 
-There are 210 reviews
-210
+There are 211 reviews
+211
 
 
 
@@ -793,7 +793,7 @@ Rated 4.5 out of 5 stars
 4.59999990463257
 5
 
-There are 37623 reviews
+There are 37627 reviews
 37K
 
 
@@ -810,7 +810,7 @@ Rated 4 out of 5 stars
 4.19999980926514
 5
 
-There are 21997 reviews
+There are 21998 reviews
 21K
 
 
@@ -827,7 +827,7 @@ Rated 4 out of 5 stars
 4.19999980926514
 5
 
-There are 13095 reviews
+There are 13099 reviews
 13K
 
 
@@ -914,7 +914,7 @@ Rated 4.5 out of 5 stars
 4.69999980926514
 5
 
-There are 31345 reviews
+There are 31347 reviews
 31K
 
 
@@ -944,7 +944,7 @@ Rated 4.5 out of 5 stars
 4.5
 5
 
-There are 9230 reviews
+There are 9231 reviews
 9K
 
 
@@ -974,7 +974,7 @@ Rated 4.5 out of 5 stars
 4.40000009536743
 5
 
-There are 116597 reviews
+There are 116595 reviews
 116K
 
 
@@ -1021,7 +1021,7 @@ Rated 4.5 out of 5 stars
 4.40000009536743
 5
 
-There are 163541 reviews
+There are 163518 reviews
 163K
 
 
@@ -1051,7 +1051,7 @@ Rated 4.5 out of 5 stars
 4.59999990463257
 5
 
-There are 10944 reviews
+There are 10946 reviews
 10K
 
 
@@ -1183,7 +1183,7 @@ Rated 4 out of 5 stars
 4.19999980926514
 5
 
-There are 21997 reviews
+There are 21998 reviews
 21K
 
 
@@ -1362,14 +1362,14 @@ $1,499.00
 • 17.3-inch Full HD display• Intel i7 8th Gen• 16GB memory/1TB HDD + 128GB SSD• VR-ready NVIDIA GeForce GTX 1070 graphics5
 5SAVE $150.00
 ASUS ROG Strix GL503VD-UH73 Gaming Laptop 
-Rated 3.5 out of 5 stars
+Rated 4 out of 5 stars
 
 
-3.5
+4
 5
 
-There are 2 reviews
-2
+There are 3 reviews
+3
 
 
 Was
@@ -1378,7 +1378,7 @@ Now
 $949.00
 
 
-• 15.6-inch Full HD display• Intel i7 7th Gen• 16GB memory/1TB SSHD + 128GB SSD• NVIDIA GeForce GTX 1050 graphics• Windows 10 Home3.5
+• 15.6-inch Full HD display• Intel i7 7th Gen• 16GB memory/1TB SSHD + 128GB SSD• NVIDIA GeForce GTX 1050 graphics• Windows 10 Home4
 5PC gaming accessories
 
             Show allShow allSAVE $10.00

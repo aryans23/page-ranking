@@ -1,5 +1,6 @@
+https://www.microsoft.com/
+https://www.microsoft.com//#primaryArea
 https://www.microsoft.com
-https://www.microsoft.com/#primaryArea
 https://products.office.com/en-us/home
 https://www.microsoft.com/en-us/windows/
 https://www.microsoft.com/en-us/surface
@@ -43,9 +44,3 @@ https://www.microsoft.com/en-us/p/surface-laptop-2/8XQJKK3DD91B
 https://www.microsoft.com/en-us/p/surface-book-2/8mcpzjjcc98c
 https://www.microsoft.com/en-us/p/xbox-one-s-1tb-console-minecraft-creators-bundle/92bfhgsbrfnk
 https://www.microsoft.com/en-us/p/xbox-game-pass/cfq7ttc0k6l8/0001
-https://products.office.com/en-us/compare-all-microsoft-office-products?tab=1&OCID=AID679471_OO_Hero_mscomrefreshhome
-https://www.microsoft.com/en-us/p/surface-studio-2/8SBJXM0M58T4
-https://www.microsoft.com/en-us/itpro/windows-10
-https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2&OCID=AID679471_OO_HLW_mscomrefresh
-https://www.microsoft.com/en-us/connectevent/?ocid=AID750056_QSG_MS_287410
-https://www.microsoft.com/en-us/empowering

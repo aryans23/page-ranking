@@ -9,6 +9,7 @@ import re
 from sklearn.feature_extraction import DictVectorizer
 
 def get_features(verbose=False):
+	print "************* Computing Features..."
 	ps = nltk.stem.PorterStemmer()
 	tokenizer = RegexpTokenizer(r'\w+')
 	bag = Counter()
